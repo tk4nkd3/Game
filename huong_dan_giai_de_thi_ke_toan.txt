@@ -1,0 +1,234 @@
+HƯỚNG DẪN GIẢI ĐỀ THI KẾ TOÁN
+Tổng hợp công thức và phương pháp giải các dạng bài
+
+PHẦN 1: CÁC CHỈ TIÊU TÀI CHÍNH QUAN TRỌNG
+
+1.1. Kỳ thu tiền bình quân (Days Sales Outstanding – DSO)
+Chỉ tiêu này đo lường số ngày trung bình để doanh nghiệp thu hồi khoản phải thu từ khách hàng. Kỳ thu tiền càng ngắn thì doanh nghiệp thu tiền càng nhanh, rủi ro thanh khoản càng thấp.
+
+Kỳ thu tiền BQ = (Phải thu đầu kỳ + Phải thu cuối kỳ) / 2 ÷ Doanh thu thuần × 365
+→ Ví dụ: Doanh thu 520.000; Phải thu đầu 80.000, cuối 60.000 → BQ = 70.000 → DSO = 70.000/520.000 × 365 ≈ 49,1 ngày.
+
+1.2. Tỷ suất lợi nhuận gộp (Gross Profit Margin)
+Phản ánh phần trăm doanh thu còn lại sau khi trừ giá vốn hàng bán, dùng để đo hiệu quả sản xuất và định giá sản phẩm.
+
+Tỷ suất LN gộp = (Doanh thu thuần – Giá vốn hàng bán) / Doanh thu thuần × 100%
+→ Ví dụ: DT = 220.000; GVHB = 138.000 → LN gộp = 82.000 → Tỷ suất = 82.000/220.000 ≈ 37,3%.
+
+1.3. Vòng quay hàng tồn kho (Inventory Turnover)
+Đo lường số lần hàng tồn kho được bán và thay thế trong một kỳ. Vòng quay cao thể hiện quản lý hàng tồn kho hiệu quả.
+
+Vòng quay HTK = Giá vốn hàng bán / Hàng tồn kho bình quân
+→ HTK bình quân = (HTK đầu kỳ + HTK cuối kỳ) / 2
+
+
+PHẦN 2: TÀI SẢN CỐ ĐỊNH – KHẤU HAO
+
+2.1. Nguyên giá TSCĐ
+Nguyên giá TSCĐ bao gồm giá mua cộng toàn bộ chi phí hợp lý liên quan trực tiếp đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng, như phí vận chuyển, lắp đặt, chạy thử. Lưu ý: chi phí sửa chữa thường xuyên KHÔNG tính vào nguyên giá mà ghi vào chi phí trong kỳ.
+
+Nguyên giá = Giá mua + Chi phí vận chuyển + Chi phí lắp đặt + Chi phí chạy thử – Giảm giá – Chiết khấu
+
+2.2. Khấu hao đường thẳng (Straight-line)
+Phân bổ đều giá trị hao mòn của TSCĐ theo thời gian sử dụng. Đây là phương pháp phổ biến nhất, đơn giản và minh bạch.
+
+Mức KH / năm = (Nguyên giá – Giá trị thu hồi ước tính) / Thời gian sử dụng
+KH lũy kế = Mức KH/năm × Số tháng đã sử dụng / 12
+→ Ví dụ: Nguyên giá 50, thu hồi 5, thời gian 5 năm → KH/năm = 9. Dùng 27 tháng → KH lũy kế = 9 × 27/12 = 20,25.
+
+2.3. Khấu hao đều tỷ lệ (%)
+KH/năm = Nguyên giá × Tỷ lệ khấu hao (%)
+→ Khi mua ngoài có thuế GTGT được khấu trừ: Nguyên giá = Giá chưa thuế (không bao gồm GTGT).
+→ Khi mua ngoài, thuế GTGT không được khấu trừ: Nguyên giá = Giá cả thuế GTGT.
+
+2.4. Bút toán xóa sổ TSCĐ khi nhượng bán / thanh lý
+Khi xóa sổ TSCĐ, kế toán phải xóa đồng thời cả nguyên giá và khấu hao lũy kế. Phần giá trị còn lại chưa khấu hao được ghi nhận là chi phí (nếu thanh lý lỗ) hoặc thu nhập (nếu thanh lý lãi).
+
+• Nợ TK Khấu hao lũy kế TSCĐ (số KH đã tính)
+• Nợ TK Chi phí khác / Chi phí bán hàng (giá trị còn lại nếu lỗ)
+• Có TK Tài sản cố định (nguyên giá)
+→ Nếu giá thanh lý > giá trị còn lại → ghi nhận thu nhập khác (lãi). Nếu < → ghi nhận chi phí (lỗ).
+
+
+PHẦN 3: HÀNG TỒN KHO – PHƯƠNG PHÁP TÍNH GIÁ
+
+3.1. Phương pháp FIFO (Nhập trước – Xuất trước)
+Hàng nhập kho trước sẽ được xuất bán trước. Trong điều kiện giá mua tăng dần, FIFO cho giá vốn thấp hơn và lợi nhuận cao hơn so với thực tế. Giá trị hàng tồn kho cuối kỳ phản ánh giá mua gần đây nhất nên gần với giá thị trường.
+
+GVHB = Tổng giá gốc của các lô hàng xuất theo thứ tự nhập trước
+→ Ví dụ bán 180 sản phẩm: lấy hết lô nhập đầu tiên (60sp×45), tiếp theo lô thứ hai (60sp×47), rồi lô thứ ba (60sp×47)...
+
+3.2. Phương pháp Bình quân gia quyền
+Tính đơn giá bình quân của tất cả hàng có trong kho (đầu kỳ + nhập trong kỳ) rồi nhân với số lượng xuất. Đơn giản, dễ áp dụng, phù hợp hàng nhiều chủng loại đồng nhất.
+
+Đơn giá BQ = Tổng giá trị hàng có / Tổng số lượng hàng có
+GVHB = Đơn giá BQ × Số lượng xuất
+
+3.3. Phương pháp Đích danh
+Theo dõi giá gốc riêng của từng lô hàng cụ thể khi xuất kho. Phù hợp hàng hóa giá trị cao, dễ nhận dạng riêng lẻ (máy móc, xe hơi, trang sức). Không phù hợp hàng nhiều chủng loại đồng nhất, giá thấp.
+
+3.4. Giá trị hàng tồn kho cuối kỳ
+HTK cuối kỳ = HTK đầu kỳ + Nhập trong kỳ – GVHB
+→ Nguyên tắc ghi nhận HTK theo giá gốc; cuối kỳ so sánh với giá trị thuần có thể thực hiện được (NRV) để lập dự phòng nếu NRV < giá gốc.
+
+
+PHẦN 4: MUA HÀNG – CHIẾT KHẤU – THUẾ GTGT
+
+4.1. Trình tự tính giá trị hàng mua
+Khi mua hàng có nhiều điều chỉnh, cần thực hiện theo đúng thứ tự sau để tính chính xác giá trị hàng nhập kho và số tiền phải trả cho người bán:
+
+• Bước 1: Giá mua theo hóa đơn (chưa GTGT)
+• Bước 2: Trừ chiết khấu thương mại (nếu có) – giảm trực tiếp trên hóa đơn
+• Bước 3: Trừ hàng trả lại (nếu hàng kém chất lượng)
+• Bước 4: Trừ giảm giá hàng mua (do hàng không đạt yêu cầu)
+• Bước 5: Cộng thêm chi phí vận chuyển do người mua chịu
+• Bước 6: Tính thuế GTGT đầu vào (nếu được khấu trừ)
+• Bước 7: Trừ chiết khấu thanh toán (nếu trả sớm trong thời hạn)
+
+Số tiền phải trả = (Giá hóa đơn – CKTM – Hàng trả lại – Giảm giá) × (1 + thuế suất GTGT) – CKTT
+
+4.2. Chiết khấu thanh toán (CKTT)
+Điều kiện tín dụng thường viết dạng 2/10, n/30: được chiết khấu 2% nếu thanh toán trong 10 ngày, nếu không thì phải trả toàn bộ trong 30 ngày. Chiết khấu TT tính trên giá đã trừ CKTM và hàng trả lại, TRƯỚC khi cộng thuế GTGT.
+
+CKTT = Giá trị hàng mua thuần (chưa GTGT) × Tỷ lệ chiết khấu
+
+4.3. Thuế GTGT theo phương pháp khấu trừ
+Thuế GTGT đầu vào = Giá mua chưa thuế × Thuế suất
+Thuế GTGT phải nộp = Thuế đầu ra – Thuế đầu vào được khấu trừ
+→ TK Thuế GTGT được khấu trừ: tăng bên Nợ (phát sinh Nợ) khi mua hàng; giảm bên Có khi bù trừ với thuế đầu ra hoặc được hoàn thuế. Số dư Nợ = thuế đầu vào chưa được khấu trừ.
+
+
+PHẦN 5: VỐN CHỦ SỞ HỮU – CỔ PHIẾU – CỔ TỨC
+
+5.1. Phát hành cổ phiếu
+Khi phát hành cổ phiếu, so sánh giá phát hành với mệnh giá để xác định thặng dư hoặc chiết khấu vốn cổ phần:
+
+• Phát hành BẰNG mệnh giá: Nợ Tiền / Có Vốn cổ phần thường
+• Phát hành CAO HƠN mệnh giá: Nợ Tiền / Có Vốn cổ phần + Có Thặng dư vốn CP
+• Phát hành THẤP HƠN mệnh giá: Nợ Tiền + Nợ Thặng dư vốn CP / Có Vốn cổ phần
+
+Thặng dư vốn = (Giá phát hành – Mệnh giá) × Số lượng cổ phần phát hành
+→ Ví dụ: 6.500.000 CP, mệnh giá 10đ, giá phát hành 11,85đ → Thu = 77.000.000đ > Mệnh giá 65.000.000đ → Phát hành cao hơn mệnh giá, thặng dư = 12.000.000đ.
+
+5.2. Cổ tức
+Cổ tức là phần lợi nhuận chia cho cổ đông, được ghi nhận qua hai thời điểm quan trọng:
+
+• Ngày công bố (tuyên bố cổ tức): Nợ TK Lợi nhuận chưa phân phối / Có TK Cổ tức phải trả
+• Ngày thanh toán cổ tức: Nợ TK Cổ tức phải trả / Có TK Tiền
+→ Người mua cổ phiếu TRƯỚC ngày chốt danh sách mới được hưởng cổ tức. Mua vào đúng ngày hoặc sau ngày chốt sẽ không được hưởng.
+
+5.3. Vốn chủ sở hữu tăng / giảm
+
+VCSH TĂNG khi:
+- Nhận vốn góp từ chủ sở hữu
+- Lợi nhuận kinh doanh dương
+- Nhận biếu tặng tài sản
+- Tái đánh giá tài sản tăng
+
+VCSH GIẢM khi:
+- Trả cổ tức bằng tiền mặt
+- Thua lỗ trong kinh doanh
+- Mua lại cổ phiếu quỹ
+- Hoàn trả vốn góp cho chủ
+
+
+PHẦN 6: VAY NỢ – LÃI VAY – TRÌNH BÀY BCTC
+
+6.1. Lãi vay dồn tích (accrued interest)
+Lãi vay phát sinh theo thời gian phải được ghi nhận vào cuối kỳ kế toán dù chưa thanh toán, theo nguyên tắc phù hợp (matching principle).
+
+Lãi vay dồn tích = Nợ gốc × Lãi suất / năm × Số tháng dồn tích / 12
+→ Bút toán cuối kỳ: Nợ TK Chi phí lãi vay / Có TK Lãi vay phải trả
+→ Ví dụ: Vay 45.000.000đ, lãi 6%/năm, vay từ 1/9, cuối năm (31/12) dồn 4 tháng → Lãi = 45.000.000 × 6% × 4/12 = 900.000đ.
+
+6.2. Phân loại nợ vay trên bảng cân đối kế toán
+• Vay ngắn hạn: Thời hạn ≤ 12 tháng kể từ ngày lập BCTC
+• Vay dài hạn: Thời hạn > 12 tháng kể từ ngày lập BCTC
+→ Vay 9 tháng từ 1/10/N → đáo hạn 30/6/(N+1): tại 31/12/N còn 6 tháng → vẫn là ngắn hạn.
+
+
+PHẦN 7: SAI SÓT KẾ TOÁN VÀ ẢNH HƯỞNG
+
+7.1. Nguyên tắc phân tích ảnh hưởng của sai sót
+Mỗi bút toán ảnh hưởng đến ít nhất hai khoản mục trong phương trình kế toán: Tài sản = Nợ phải trả + Vốn chủ sở hữu. Khi phân tích sai sót, cần xác định chính xác khoản nào bị ảnh hưởng và theo hướng nào (cao hơn hay thấp hơn thực tế).
+
+Loại sai sót → Ảnh hưởng:
+- Không xóa sổ TSCĐ khi bán → Tài sản cao hơn + Nguồn vốn cao hơn
+- Vốn hóa nhầm CP sửa chữa thường xuyên → Tài sản cao hơn + Chi phí thấp hơn → LN cao hơn
+- Ghi CP vận chuyển TSCĐ vào chi phí (thay vì vốn hóa) → TSCĐ thấp hơn + Chi phí cao hơn → LN thấp hơn
+- Không trích trước chi phí lãi vay → Chi phí thấp hơn + Nợ PT thấp hơn → LN cao hơn, TS cao hơn
+- Không điều chỉnh chi phí trả trước → Tài sản cao hơn + LN cao hơn (vì CP thấp hơn)
+
+
+PHẦN 8: PHƯƠNG PHÁP KẾ KHAI – GHI SỔ
+
+8.1. Kê khai thường xuyên (Perpetual Inventory)
+Theo phương pháp này, hàng tồn kho và giá vốn được cập nhật liên tục sau mỗi giao dịch mua/bán. TK Giá vốn hàng bán (GVHB) được sử dụng ngay tại thời điểm bán hàng hoặc trả lại hàng.
+
+• Khi bán hàng: Nợ GVHB / Có Hàng tồn kho
+• Khi nhận lại hàng bán: Nợ Hàng tồn kho / Có GVHB
+
+8.2. Kiểm kê định kỳ (Periodic Inventory)
+Không theo dõi liên tục HTK. GVHB chỉ được xác định vào cuối kỳ qua kiểm kê thực tế. TK GVHB chỉ được ghi nhận tại thời điểm cuối kỳ kế toán.
+
+GVHB = HTK đầu kỳ + Mua trong kỳ (thuần) – HTK cuối kỳ
+
+8.3. Kết cấu tài khoản điều chỉnh giảm
+Tài khoản điều chỉnh giảm (contra account) có kết cấu ngược với tài khoản chủ yếu mà nó điều chỉnh. Ví dụ: TK Hao mòn lũy kế TSCĐ điều chỉnh giảm TK TSCĐ.
+
+• Tài sản điều chỉnh giảm (vd: Hao mòn lũy kế): tăng bên Có, giảm bên Nợ, số dư Có
+• Nguồn vốn điều chỉnh giảm (vd: Cổ phiếu quỹ, Rút vốn): tăng bên Nợ, giảm bên Có, số dư Nợ
+
+
+PHẦN 9: BẢNG TÓM TẮT ĐỊNH KHOẢN THƯỜNG GẶP
+
+Nghiệp vụ → Định khoản:
+
+Mua hàng nhập kho (KKTX, có GTGT KT)
+→ Nợ Hàng hóa + Nợ Thuế GTGT đầu vào / Có PTr NCC
+
+Bán hàng thu tiền
+→ Nợ Tiền / Có Doanh thu + Có Thuế GTGT đầu ra
+
+Xuất kho ghi GVHB (KKTX)
+→ Nợ GVHB / Có Hàng hóa
+
+Ứng trước tiền cho NCC
+→ Nợ Ứng trước NCC / Có Tiền
+
+Nhận hàng từ NCC đã ứng trước
+→ Nợ Hàng hóa / Có Ứng trước NCC + Có PTr NCC
+
+KH ứng trước tiền mua hàng
+→ Nợ Tiền / Có KH ứng trước
+
+Giao hàng cho KH đã ứng trước
+→ Nợ KH ứng trước / Có Doanh thu + Nợ Phải thu KH (nếu còn thiếu)
+
+Tuyên bố cổ tức
+→ Nợ LNCPP / Có Cổ tức phải trả
+
+Thanh toán cổ tức
+→ Nợ Cổ tức phải trả / Có Tiền
+
+Nhận vốn góp bằng tiền
+→ Nợ Tiền / Có Vốn đầu tư của CSH
+
+Vay ngắn hạn ngân hàng
+→ Nợ TGNH / Có Vay ngắn hạn
+
+Trả nợ vay + lãi
+→ Nợ Vay ngắn hạn + Nợ Lãi vay phải trả / Có Tiền
+
+Mua TSCĐ chưa trả tiền
+→ Nợ TSCĐ / Có PTr người bán
+
+Xóa sổ TSCĐ bán/thanh lý
+→ Nợ KH lũy kế + Nợ CP khác (GTCL) / Có TSCĐ (nguyên giá)
+
+Tài sản - khấu hao = nguồn vốn
+Giá vốn hang hóa trong kì = Đầu kì + Mua - Cuối kì
+Lợi nhuận thuần = Lợi nhuận gộp - CP hoạt động
+Tài sản = nợ phải trả + vốn chủ sở hữu
+Tỷ suất lợi nhuận gộp = Lợi nhuận gộp / Doanh thu thuần
+Lợi nhuận gộp = Doanh thu thuần - Giá vốn hang bán
