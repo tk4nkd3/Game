@@ -1,0 +1,531 @@
+TÓM TẮT LÝ THUYẾT TÀI CHÍNH TIỀN TỆ 2
+==========================================
+
+[1] TỶ GIÁ & CÁN CÂN THANH TOÁN
+- Thuế NK giảm → cầu NK tăng → Rf dịch phải → nội tệ GIẢM
+- Cung tiền giảm → lãi suất tăng → Rd dịch phải → nội tệ TĂNG
+- IRP: i^D = i^F + (E^e - E)/E ; R^F = i^F - (E^e - E)/E
+- PPP: quy về cùng đơn vị → so giá → ra tỷ giá. Hạn chế: hàng phi mậu dịch, phí vận chuyển
+- BOP: vãng lai (XNK, thu nhập đầu tư) + vốn + dự trữ
+- Can thiệp HỮU HIỆU: đổi cung tiền | VÔ HIỆU: cung tiền không đổi
+  + NHTW BÁN ngoại tệ → cung tiền giảm → nội tệ TĂNG
+  + BOP thặng dư + hữu hiệu → cung tiền TĂNG
+  + BOP thâm hụt + vô hiệu → tỷ giá KHÔNG ĐỔI
+- Dự trữ quốc tế = ngoại tệ, nằm bên TÀI SẢN CÓ của NHTW
+- Bretton Woods thâm hụt dai dẳng → PHÁ GIÁ nội tệ
+- Tránh thiếu dự trữ → CSTT THU HẸP → TĂNG GIÁ nội tệ
+
+[2] HỆ THỐNG TIỀN TỆ QUỐC TẾ
+- 1914: kết thúc bản vị vàng (tỷ giá cố định theo vàng)
+- 1930: thành lập BIS
+- 1944-1971: Bretton Woods (35 USD = 1 ounce vàng)
+- Sau 1973: thả nổi có quản lý + thả nổi tự do
+- Đồng giá trị cao nhất 2019: Dinar Kuwaiti (KWD)
+- 1992: Soros - Mác Đức TĂNG so Bảng Anh
+- 1995: Nick Leeson phá sản Barings - đồng YÊN NHẬT
+- 1997: khủng hoảng Đông Á bắt đầu tại THÁI LAN
+
+[3] LẠM PHÁT
+- Phân loại: vừa phải (<10%) | phi mã (2 chữ số) | siêu lạm phát (3+ chữ số)
+- Công thức: π = (P2-P1)/P1 × 100%
+- GDP Deflator = (GDP danh nghĩa / GDP thực) × 100
+- Nguyên nhân:
+  + Tiền tệ (Friedman): cung tiền tăng liên tục
+  + Tài trợ thâm hụt (Đức 1921-23, Mỹ Latinh 80-90): in tiền
+  + Cầu kéo: AD dịch PHẢI, thất nghiệp < tự nhiên
+  + Chi phí đẩy: AS dịch TRÁI, thất nghiệp > tự nhiên
+- Fisher: lạm phát cao → lãi suất danh nghĩa tăng
+- 1870-1880: GIẢM PHÁT | 1970-1990 công nghiệp: ~7%
+
+[4] CHÍNH SÁCH TIỀN TỆ - 4 KÊNH TRUYỀN DẪN
+- Lãi suất: M↑ → i↓ → I,C↑ → Y↑
+- Tỷ giá: M↑ → E↓ → NX↑ → Y↑
+- Giá tài sản (Tobin's q): M↑ → cổ phiếu↑ → q↑ → đầu tư↑
+- Tín dụng: thắt chặt → dòng tiền DN giảm, giá trị ròng giảm → rủi ro đạo đức tăng → đầu tư giảm
+- SAI: "thắt chặt làm chứng khoán tăng giá" (phải ngược lại)
+- Lạm phát → CSTT thắt chặt: tăng DTBB, tăng lãi tái chiết khấu, BÁN OMO
+- Keynes: ưu tiên CHÍNH SÁCH TÀI KHÓA (do bẫy thanh khoản)
+
+[5] TIỀN CƠ SỞ & BẢNG CÂN ĐỐI NHTW
+- TÀI SẢN CÓ: chứng khoán, cho vay, dự trữ ngoại hối
+- NGUỒN VỐN: tiền lưu hành (C) + dự trữ (R)
+- MB = C + R
+- Dự trữ NHTM = tiền gửi NHTW + tiền mặt tại quỹ
+- Tiền lưu hành = ngoài hệ thống ngân hàng
+- Tài trợ thâm hụt:
+  + Bán TP cho dân → MB không đổi
+  + Bán TP cho NHTW → MB TĂNG → cung tiền TĂNG
+- MB KHÔNG ĐỔI khi: NHTM mua TP trên HOSE, NHTM tăng dự trữ vượt mức, DN trả nợ NHTM
+- Giữ USD = chủ nợ của Mỹ (fiat money)
+
+=====================================================================
+CHƯƠNG 1: CÁC TỔ CHỨC TÀI CHÍNH TRUNG GIAN
+=====================================================================
+
+Câu 1: Trung gian tài chính không được nhìn nhận với tư cách nào sau đây
+→ Đáp án: Một công ty cổ phần
+
+Câu 2: Thời gian và tiền bạc được sử dụng để thực hiện các giao dịch tài chính được gọi là
+→ Đáp án: Các chi phí giao dịch
+
+Câu 3: Các tổ chức tài chính trung gian không tiết kiệm chi phí giao dịch từ việc
+→ Đáp án: Thực hiện mở rộng mạng lưới hoạt động
+
+Câu 4: Nghiên cứu về hầu hết các nước phát triển trên thế giới cho thấy khi doanh nghiệp tìm kiếm nguồn tài trợ cho các hoạt động của họ thì họ chủ yếu huy động được từ
+→ Đáp án: Các tổ chức tài chính trung gian
+
+Câu 5: Tại Mỹ, nguồn tài trợ vốn bên ngoài chủ yếu cho các doanh nghiệp sản xuất hiện nay xuất phát từ
+→ Đáp án: Vay nợ Ngân hàng
+
+Câu 6: Tại Việt Nam, nguồn tài trợ vốn chủ yếu cho các doanh nghiệp là
+→ Đáp án: Vay nợ Ngân hàng
+
+Câu 7: Lý thuyết về thông tin không cân xứng xuất phát từ nghiên cứu về
+→ Đáp án: Thị trường giao dịch ô tô cũ
+
+Câu 8: Lý thuyết về thông tin không cân xứng khi xây dựng lý thuyết về "vấn đề quả chanh" là nghiên cứu của
+→ Đáp án: George Akerlof
+
+Câu 9: Thông thường, người đi vay có thông tin tốt hơn người cho vay về lợi nhuận và rủi ro tiềm năng của một dự án đầu tư. Sự khác nhau về mặt thông tin này được gọi là
+→ Đáp án: Thông tin không cân xứng
+
+Câu 10: Sự lựa chọn đối nghịch là một vấn đề liên quan tới các hợp đồng nợ và hợp đồng vốn cổ phần được tạo ra bởi
+→ Đáp án: Sự thiếu hụt tương đối ở thông tin của người cho vay về lợi nhuận và rủi ro tiềm năng của người đi vay trong các hoạt động đầu tư của anh ta
+
+Câu 11: Vấn đề gây ra bởi thông tin không cân xứng trước khi diễn ra các giao dịch được gọi là _____, trong khi vấn đề gây ra sau khi diễn ra các giao dịch được gọi là _____
+→ Đáp án: Sự lựa chọn đối nghịch; rủi ro đạo đức
+
+Câu 12: Gia tăng lượng thông tin cho các nhà đầu tư giúp làm giảm thiểu các vấn đề về _____ và _____ trên thị trường tài chính
+→ Đáp án: Sự lựa chọn đối nghịch; rủi ro đạo đức
+
+Câu 13: "Chỉ có các doanh nghiệp uy tín, quy mô lớn mới có thể tiếp cận được nguồn vốn từ thị trường chứng khoán"
+→ Đáp án: Có thể được giải thích bởi vấn đề sự lựa chọn đối nghịch
+
+Câu 14: Để hạn chế vấn đề sự lựa chọn đối nghịch trên thị trường, giải pháp nào sau đây kém hiệu quả nhất
+→ Đáp án: Sử dụng hợp đồng nợ
+
+Câu 15: Giải pháp nào trong các giải pháp sau đây là hiệu quả nhất trong việc làm giảm thiểu các rủi ro do thông tin không cân xứng
+→ Đáp án: Nâng cao hiệu quả và chất lượng hoạt động của các trung gian tài chính trong cấu trúc tài chính
+
+Câu 16: Vật thế chấp và quy định về giá trị tài sản ròng của doanh nghiệp đi vay vốn có ý nghĩa quan trọng trong việc
+→ Đáp án: Làm giảm thiểu vấn đề rủi ro đạo đức
+
+Câu 17: Tổ chức tín dụng phi ngân hàng không được thực hiện hoạt động
+→ Đáp án: Nhận tiền gửi của cá nhân
+
+Câu 18: Loại trung gian tài chính nào sau đây không phải là tổ chức tiền gửi
+→ Đáp án: Công ty tài chính
+
+Câu 19: Tài sản chủ yếu của một công ty tài chính là
+→ Đáp án: Các khoản cho vay đối với doanh nghiệp và người tiêu dùng
+
+Câu 20: Điều nào sau đây là không đúng về công ty tài chính
+→ Đáp án: Chủ yếu cho vay món tiền lớn cho các doanh nghiệp
+
+Câu 21: Khi bạn có nhu cầu mua trả góp 1 chiếc máy tính xách tay Asus, bạn nên tìm đến
+→ Đáp án: Công ty tài chính người tiêu dùng
+
+Câu 22: Vốn pháp định của công ty bảo hiểm kinh doanh bảo hiểm nhân thọ thông thường là
+→ Đáp án: 600 tỷ đồng
+
+Câu 23: Công ty bảo hiểm không huy động vốn bằng cách
+→ Đáp án: Nhận tiền gửi khách hàng
+
+Câu 24: Công ty chứng khoán thực hiện hoạt động tự doanh chứng khoán có yêu cầu về vốn pháp định là
+→ Đáp án: 100 tỷ đồng
+
+Câu 25: Loại tổ chức nào trong các tổ chức tài chính trung gian sau thực hiện việc huy động vốn bằng cách bán các chứng chỉ cho các cá nhân và sau đó sử dụng vốn thu được để đầu tư vào các danh mục gồm cổ phiếu và trái phiếu
+→ Đáp án: Quỹ đầu tư chung
+
+Câu 26: Đặc điểm của quỹ đầu tư mở
+→ Đáp án: Được huy động vốn liên tục trong quá trình hoạt động
+
+Câu 27: Điều nào sau đây là đúng khi nói về quỹ mở
+→ Đáp án: Nhà đầu tư có thể thực hiện việc chuyển đổi giữa các quỹ của cùng 1 công ty quản lý quỹ
+
+=====================================================================
+CHƯƠNG 2: NGÂN HÀNG THƯƠNG MẠI (NHTM)
+=====================================================================
+
+Câu 28: NHTM cổ phần Nhà nước
+→ Đáp án: Do Nhà nước sở hữu trên 50% vốn chủ sở hữu
+
+Câu 29: Trước những năm 1960, nguồn vốn chủ yếu trong hoạt động của các NHTM tại Mỹ là từ
+→ Đáp án: Tiền gửi thanh toán
+
+Câu 30: Tiền gửi có thể phát séc của NHTM là
+→ Đáp án: Tiền gửi giao dịch
+
+Câu 31: Vốn chủ sở hữu của ngân hàng thương mại
+→ Đáp án: Có vai trò đến quy mô hoạt động của ngân hàng
+
+Câu 32: Mục tiêu trong quản lý nguồn vốn của NHTM là
+→ Đáp án: Giảm thiểu chi phí
+
+Câu 33: NHTM tạo tiền bằng cách
+→ Đáp án: Cho khách hàng vay tiền
+
+Câu 34: Giả sử bạn nộp tiền vào tài khoản mở tại ngân hàng CYN, tài sản của ngân hàng CYN …… và các khoản nợ của nó ……
+→ Đáp án: Tăng; tăng
+
+Câu 35: Khi bạn chuyển 5 triệu từ tài khoản Vietinbank đến tài khoản Vietcombank của cùng người sở hữu, thì
+→ Đáp án: Nguồn vốn của Vietinbank và Vietcombank không đổi
+
+Câu 36: Số nhân vốn chủ sở hữu được tính bằng
+→ Đáp án: Tổng tài sản/Vốn chủ sở hữu
+
+Câu 37: Theo Basel III, hệ số an toàn vốn được quy định tối thiểu là
+→ Đáp án: 7%
+
+Câu 38: Cho vay từng lần
+→ Đáp án: Áp dụng cho khách hàng vay không thường xuyên
+
+Câu 39: Cho vay tiêu dùng
+→ Đáp án: Giúp tài trợ việc mua ô tô
+
+Câu 40: NHTM thường
+→ Đáp án: Huy động vốn ngắn hạn để cho vay trung và dài hạn
+
+Câu 41: Uỷ thác đầu tư
+→ Đáp án: Là việc NHTM nhận uỷ thác của một cá nhân hoặc tổ chức để đầu tư vào một dự án
+
+Câu 42: Nguyên tắc quan trọng nhất để NHTM hạn chế rủi ro tín dụng là
+→ Đáp án: Sàng lọc và giám sát
+
+Câu 43: Các ngân hàng thương mại Việt Nam có được phép tham gia vào hoạt động kinh doanh trên thị trường chứng khoán hay không?
+→ Đáp án: Có, nhưng phải thông qua công ty chứng khoán độc lập
+
+Câu 44: Trong các tài khoản sau, tài khoản nhạy cảm với lãi suất là
+→ Đáp án: Cho vay ngắn hạn
+
+Câu 45: Nếu 1 NHTM có khoảng cách để xác định rủi ro lãi suất là -10 tỷ VND, khi lãi suất tăng thêm 5% sẽ khiến cho lợi nhuận
+→ Đáp án: Tăng 0,5 tỷ
+
+Câu 46: NHTM thường duy trì khoảng cách để xác định rủi ro lãi suất
+→ Đáp án: Dương
+
+Câu 47: Khi lãi suất trên thị trường giảm, lợi nhuận của NHTM thường
+→ Đáp án: Tăng
+
+Câu 48: Khi kỳ hạn của tài sản nợ dài hơn kỳ hạn của tài sản có, ngân hàng có khả năng phải đối mặt với ………. khi lãi suất thị trường thay đổi
+→ Đáp án: Rủi ro tái đầu tư
+
+Câu 49: Nếu một ngân hàng dự đoán lãi suất sẽ tăng trong tương lai, ngân hàng đó nên
+→ Đáp án: Mua các loại trái phiếu ngắn hạn thay vì trái phiếu dài hạn
+
+Câu 50: Đổi chéo lãi suất được thực hiện bằng cách
+→ Đáp án: Các NHTM có thể trao đổi các dòng tiền thanh toán
+
+=====================================================================
+CHƯƠNG 3: CẦU TIỀN
+=====================================================================
+
+--- A. Học thuyết số lượng tiền tệ (Fisher & kinh tế học cổ điển) ---
+
+Câu 51: Học thuyết số lượng về cầu tiền tệ được phát triển bởi
+→ Đáp án: Irving Fisher
+
+Câu 52: Phương trình trao đổi có dạng
+→ Đáp án: M × V = P × Y
+
+Câu 53: Quan điểm của Fisher cho rằng lượng cầu tiền
+→ Đáp án: Tỷ lệ thuận với thu nhập danh nghĩa
+
+Câu 54: Theo quan điểm của Fisher, tốc độ luân chuyển tiền tệ phụ thuộc vào
+→ Đáp án: Thói quen của người dân
+
+Câu 55: Theo quan điểm của kinh tế học cổ điển, nếu sản lượng tăng lên 5%, lượng tiền cung ứng tăng lên 7% thì mức giá cả chung thay đổi như thế nào?
+→ Đáp án: Tăng 2%
+
+--- B. Lý thuyết cầu tiền của Keynes ---
+
+Câu 56: Các biến ảnh hưởng đến hàm cầu tiền trong lý thuyết của Keynes là
+→ Đáp án: Lãi suất, thu nhập thực tế
+
+Câu 57: Theo Keynes, cầu tiền đầu cơ có mối quan hệ
+→ Đáp án: Tỷ lệ nghịch với lãi suất
+
+Câu 58: Lý thuyết của Keynes về cầu tiền chỉ ra rằng tốc độ lưu chuyển của tiền sẽ tăng lên khi
+→ Đáp án: Lãi suất tăng
+
+--- C. Lý thuyết cầu tiền của Friedman ---
+
+Câu 59: Yếu tố ảnh hưởng đến nhu cầu tiền trong quan điểm của Friedman là
+→ Đáp án: Sở thích của chủ thể nắm giữ của cải
+
+Câu 60: Theo Friedman, nhu cầu nắm giữ tiền phụ thuộc vào mấy yếu tố?
+→ Đáp án: 5
+
+Câu 61: Lượng cầu tiền theo Friedman sẽ có quan hệ tỷ lệ thuận với
+→ Đáp án: Thu nhập thường xuyên
+
+Câu 62: Theo Friedman, lãi suất
+→ Đáp án: Có tác động đến cầu tiền nhưng không nhiều và có thể dự báo được
+
+--- D. Chứng minh thực nghiệm ---
+
+Câu 63: Theo các chứng minh thực nghiệm về cầu tiền, cầu tiền sẽ tăng lên khi
+→ Đáp án: Thu nhập tăng
+
+=====================================================================
+CHƯƠNG 4: NGÂN HÀNG TRUNG ƯƠNG (NHTW)
+=====================================================================
+
+Câu 64: Năm 1844, chính phủ Anh đã quyết định
+→ Đáp án: Cấm các ngân hàng tư nhân phát hành tiền
+
+Câu 65: Quá trình quốc hữu hóa hoặc thành lập ngân hàng phát hành thuộc sở hữu nhà nước diễn ra trong giai đoạn nào?
+→ Đáp án: Thế kỷ XX đến nay
+
+Câu 66: Các thống đốc của Cục dự trữ liên bang Mỹ
+→ Đáp án: Có nhiệm kỳ 14 năm do Tổng thống Mỹ bổ nhiệm
+
+Câu 67: Các ngân hàng dự trữ khu vực ở Mỹ có thể thực hiện
+→ Đáp án: Ấn định lãi suất chiết khấu của nước Mỹ
+
+Câu 68: Ngân hàng trung ương Canada về nguyên tắc
+→ Đáp án: Không phải là ngân hàng trung ương độc lập
+
+Câu 69: Ngân hàng Nhà nước Việt Nam được thành lập năm
+→ Đáp án: 1951
+
+Câu 70: Từ khi thành lập tới năm 1986, hệ thống ngân hàng nhà nước Việt Nam hoạt động
+→ Đáp án: Như là một công cụ ngân sách, chưa kinh doanh tiền tệ theo nguyên tắc thị trường
+
+Câu 71: Quá trình đổi mới căn bản và toàn diện hệ thống ngân hàng Việt Nam được bắt đầu từ năm
+→ Đáp án: 1986
+
+Câu 72: Từ tháng 5/1990, hệ thống ngân hàng Việt Nam
+→ Đáp án: Chuyển sang cơ chế hoạt động ngân hàng hai cấp
+
+Câu 73: Khoản mục nằm trong tài sản có trong bảng cân đối tiền tệ của NHTW là
+→ Đáp án: Trái phiếu chính phủ
+
+Câu 74: Cả …… và …… đều là tài sản có của Ngân hàng Trung ương
+→ Đáp án: Chứng khoán; tiền cho vay
+
+Câu 75: Theo bảng cân đối tài sản của NHTW, khi bạn sở hữu tờ 100 USD tức là bạn đang
+→ Đáp án: Nắm giữ một loại chứng khoán "đặc biệt" của nước Mỹ
+
+Câu 76: Theo bảng cân đối tài sản của NHTW, khi bạn sở hữu tờ 100 USD tức là bạn đang
+→ Đáp án: Trở thành chủ nợ của nước Mỹ
+
+Câu 77: Xét trên bảng cân đối đơn giản của Ngân hàng Trung ương, cơ số tiền tệ bao gồm
+→ Đáp án: Tiền lưu hành và tiền dự trữ
+
+Câu 78: Tiền lưu hành là tiền mặt do NHTW phát hành và
+→ Đáp án: Đang được lưu thông ngoài hệ thống ngân hàng
+
+Câu 79: Tỷ lệ dự trữ bắt buộc đối với các ngân hàng thương mại được tính
+→ Đáp án: Bằng tỷ lệ % số dư tiền gửi của NHTM
+
+Câu 80: Tỷ lệ dự trữ bắt buộc
+→ Đáp án: Của tiền gửi dài hạn được quy định thấp hơn của tiền gửi ngắn hạn
+
+Câu 81: Tổng tiền dự trữ của ngân hàng thương mại trừ tiền gửi tại Ngân hàng Trung ương là
+→ Đáp án: Tiền mặt tại quỹ của ngân hàng thương mại
+
+Câu 82: Các ngân hàng thương mại nhất thiết phải có tỷ lệ dự trữ vượt quá ở mức
+→ Đáp án: Tuỳ theo các điều kiện kinh doanh từng ngân hàng
+
+Câu 83: Tổng dự trữ bắt buộc ở phần nguồn vốn trong bảng cân đối kế toán của các NHTW thông thường sẽ bằng
+→ Đáp án: Dự trữ bắt buộc bên phần Tài sản của NHTM
+
+Câu 84: Tổng dự trữ bắt buộc ở phần nguồn vốn trong bảng cân đối kế toán của các NHTW thông thường sẽ bằng
+→ Đáp án: Dự trữ bắt buộc bên phần Tài sản của NHTM; Dự trữ bắt buộc bên phần Nguồn vốn của NHTM; Dự trữ vượt mức tại NHTM; Dự trữ vượt mức của NHTM (tất cả đều đúng)
+
+=====================================================================
+CHƯƠNG 5: QUÁ TRÌNH CUNG ỨNG TIỀN TỆ
+=====================================================================
+
+Câu 85: Giả sử các yếu tố khác không đổi, lượng tiền cơ sở sẽ thay đổi như thế nào khi NHTM mua trái phiếu chính phủ trên sàn giao dịch HOSE?
+→ Đáp án: Không đổi
+
+Câu 86: Giả sử các yếu tố khác không đổi, lượng tiền cơ sở sẽ thay đổi như thế nào khi doanh nghiệp trả nợ khoản vay của mình cho NHTM
+→ Đáp án: Không đổi
+
+Câu 87: Giả sử các yếu tố khác không đổi, lượng tiền cơ sở sẽ thay đổi như thế nào khi NHTM tăng lượng dự trữ vượt mức
+→ Đáp án: Không đổi
+
+Câu 88: Chỉ khi thâm hụt ngân sách được tài trợ bằng sự tạo tiền, gia tăng trong chi tiêu chính phủ sẽ dẫn tới _____ trong _____
+→ Đáp án: Sự gia tăng, lượng tiền cơ sở
+
+Câu 89: Nếu thâm hụt ngân sách được tài trợ bằng cách bán trái phiếu cho ____, lượng tiền cung ứng sẽ ____, làm cho tổng cầu _____
+→ Đáp án: Ngân hàng trung ương, tăng, tăng
+
+=====================================================================
+CHƯƠNG 6: CHÍNH SÁCH TIỀN TỆ
+=====================================================================
+
+Câu 90: Trong những mệnh đề dưới đây, mệnh đề nào là KHÔNG đúng khi nói về cơ chế truyền dẫn của chính sách tiền tệ
+→ Đáp án: CSTT thắt chặt sẽ khiến cho chứng khoán tăng giá, giảm chi phí huy động vốn mới, do đó tăng chi tiêu cho đầu tư
+
+Câu 91: Chính sách tiền tệ mở rộng làm tăng xuất khẩu ròng bằng cách _________ và __________ giá trị của đồng nội tệ
+→ Đáp án: Giảm lãi suất thực, giảm
+
+Câu 92: Theo kênh giá các tài sản khác trong cơ chế truyền dẫn của chính sách tiền tệ: Chính sách tiền tệ có thể ảnh hưởng tới chi tiêu cho đầu tư thông qua ảnh hưởng tới
+→ Đáp án: Giá trị thị trường của doanh nghiệp
+
+Câu 93: Chính sách tiền tệ thắt chặt có thể làm giảm dòng tiền của các doanh nghiệp bằng cách
+→ Đáp án: Tăng lãi suất
+
+Câu 94: Một sự giảm xuống trong giá cổ phiếu sẽ __________ giá trị ròng của doanh nghiệp và do đó dẫn tới chi tiêu cho đầu tư __________ do rủi ro đạo đức tăng
+→ Đáp án: Giảm, thấp hơn
+
+Câu 95: Khi nền kinh tế có lạm phát, Ngân hàng Trung ương sẽ thực thi công cụ của chính sách tiền tệ theo hướng
+→ Đáp án: Tăng tỷ lệ dự trữ bắt buộc
+
+Câu 96: Luận điểm cơ bản của quan điểm chính sách tài chính nhà nước của Keynes là
+→ Đáp án: Công cụ quan trọng để thực hiện điều chỉnh nền kinh tế là chính sách tài khoá
+
+=====================================================================
+CHƯƠNG 7: LẠM PHÁT
+=====================================================================
+
+Câu 97: Trong giai đoạn 1870-1880, các nước trên thế giới chủ yếu xuất hiện hiện tượng
+→ Đáp án: Giảm phát
+
+Câu 98: Siêu lạm phát Đức năm 1921-1923 là bằng chứng quan trọng giúp ủng hộ quan điểm tỷ lệ gia tăng tiền cao xảy ra khi?
+→ Đáp án: Chính phủ gia tăng cung tiền để tài trợ chi tiêu
+
+Câu 99: Khi lạm phát cao xảy ra
+→ Đáp án: Lãi suất danh nghĩa sẽ tăng
+
+Câu 100: Lạm phát phi mã là lạm phát ở mức?
+→ Đáp án: Tỷ lệ lạm phát ở mức hai chữ số nhưng dưới mức ba chữ số
+
+Câu 101: Trong giai đoạn 1970-1990, tỷ lệ lạm phát trung bình hàng năm của các quốc gia công nghiệp trên thế giới là
+→ Đáp án: 7%
+
+Câu 102: Lạm phát cao ở các nước Mỹ Latinh trong thập niên 1980-1990 xuất phát từ
+→ Đáp án: Chính phủ gia tăng lượng tiền cung ứng để tài trợ cho hoạt động của mình
+
+Câu 103: Lạm phát do lượng tiền cung ứng xảy ra khi
+→ Đáp án: Tổng cung tiền tăng liên tục và kéo dài
+
+Câu 104: Về mặt lý thuyết, người ta có thể phân biệt lạm phát cầu kéo và lạm phát chi phí đẩy bằng cách so sánh?
+→ Đáp án: Tỷ lệ thất nghiệp thực tế với tỷ lệ thất nghiệp tự nhiên
+
+Câu 105: Điều nào sau đây có thể dẫn tới chính sách tiền tệ lạm phát?
+→ Đáp án: Sự gia tăng thất nghiệp
+
+Câu 106: Mô hình nào sau đây minh họa cho lạm phát do cầu kéo?
+→ Đáp án: Biểu đồ có đường AD dịch phải liên tục, AS dịch trái theo (đồng thời giá và sản lượng đều tăng so với mức tự nhiên)
+
+Câu 107: Nếu không có sự tham gia của Chính phủ, một cú sốc cung tiêu cực sẽ khiến đường tổng cung và tổng cầu dịch chuyển như thế nào?
+→ Đáp án: AS dịch trái (giá tăng, sản lượng giảm xuống dưới mức tự nhiên), AD không đổi
+
+Câu 108: Nếu mức giá tăng từ 200 ở năm 1 lên 220 ở năm 2, tỷ lệ lạm phát từ năm 1 tới năm 2 là bao nhiêu?
+→ Đáp án: 10%
+
+Câu 109: Nếu GDP danh nghĩa năm 2001 là 9 nghìn tỷ đô la, và GDP thực tế năm 2001 là 6 nghìn tỷ đô la, chỉ số điều chỉnh GDP (GDP Deflator) là
+→ Đáp án: 150
+
+=====================================================================
+CHƯƠNG 8: TÀI CHÍNH QUỐC TẾ
+=====================================================================
+
+--- A. Tỷ giá & Cán cân thanh toán ---
+
+Câu 110: Giả sử các yếu tố khác không đổi, tại Việt Nam, khi thuế nhập khẩu hàng Châu Âu giảm thì
+→ Đáp án: Đường Rf dịch phải và giá trị đồng Việt Nam giảm so với đồng EUR
+
+Câu 111: Dự trữ quốc tế của một quốc gia bao gồm
+→ Đáp án: Tài sản có mệnh giá là ngoại tệ
+
+Câu 112: Trong chế độ tỷ giá cố định, nếu một nước có thâm hụt cán cân thanh toán dai dẳng, và việc đi vay IMF không đủ để tài trợ cho tình trạng thâm hụt, quốc gia đó có thể
+→ Đáp án: Phá giá đồng nội tệ
+
+Câu 113: Để tránh khỏi thiếu hụt dự trữ quốc tế trong chế độ Bretton Woods, một quốc gia phải thực hiện chính sách tiền tệ ___ để ___ đồng tiền của quốc gia đó
+→ Đáp án: Thu hẹp, tăng giá
+
+Câu 114: Giả sử các yếu tố khác không đổi, tại Việt Nam, khi lượng tiền cung ứng giảm xuống thì
+→ Đáp án: Đường Rf dịch trái và giá trị đồng Việt Nam tăng so với đồng USD
+
+Câu 115: Giả định các yếu tố khác không thay đổi, việc ngân hàng trung ương thực hiện can thiệp hữu hiệu thông qua ____ đồng ngoại tệ dẫn tới lượng cung tiền trong nước sẽ giảm và đồng nội tệ sẽ _____
+→ Đáp án: Bán, tăng giá
+
+Câu 116: Khi cán cân thanh toán thặng dư, một can thiệp hữu hiệu của NHTW để làm cân bằng cán cân thanh toán sẽ dẫn đến
+→ Đáp án: Lượng tiền cung ứng tăng
+
+Câu 117: Khi cán cân thanh toán thặng dư, một can thiệp vô hiệu của NHTW để làm cân bằng cán cân thanh toán sẽ dẫn đến
+→ Đáp án: Lượng tiền cung ứng không đổi
+
+Câu 118: Khi cán cân thanh toán thâm hụt, một can thiệp hữu hiệu của NHTW để làm cân bằng cán cân thanh toán sẽ dẫn đến
+→ Đáp án: Tỷ giá nội tệ/ngoại tệ tăng
+
+Câu 119: Khi cán cân thanh toán thâm hụt, một can thiệp vô hiệu của NHTW để làm cân bằng cán cân thanh toán sẽ dẫn đến
+→ Đáp án: Tỷ giá nội tệ/ngoại tệ không đổi
+
+Câu 120: Khi NHTW can thiệp vào thị trường ngoại hối
+→ Đáp án: Có thể làm thay đổi lượng tiền cung ứng hoặc không
+
+Câu 121: Dự trữ ngoại hối
+→ Đáp án: Nằm trong các khoản mục bên tài sản có trong bảng cân đối tiền tệ của NHTW
+
+Câu 122: Hoạt động nào sau đây được đưa vào tài khoản vãng lai của cán cân thanh toán của Mỹ
+→ Đáp án: Thu nhập thu được của chi nhánh ngân hàng Barclay London đặt tại Mỹ
+
+Câu 123: Giả sử các yếu tố khác không đổi, sự gia tăng nhu cầu về hàng……của một quốc gia khiến đồng tiền nước đó tăng giá trị trong dài hạn, trong khi sự gia tăng nhu cầu hàng……khiến đồng nội tệ giảm giá trị
+→ Đáp án: Xuất khẩu / Nhập khẩu
+
+Câu 124: Giả sử các yếu tố khác không đổi, tại Việt Nam, khi lạm phát của Việt Nam thấp hơn của Nga và thuế nhập khẩu hàng hóa từ Nga giảm, điều này khiến
+→ Đáp án: Giá trị VNĐ có thể tăng, giảm hoặc không đổi so với giá trị đồng Rúp của Nga
+
+--- B. Hệ thống tiền tệ quốc tế ---
+
+Câu 125: Trong giai đoạn đầu duy trì hệ thống Bretton Woods, 1 ounce vàng đổi được
+→ Đáp án: 35 đô la Mỹ
+
+Câu 126: Đồng tiền có giá trị cao nhất thế giới tính đến năm 2019 là
+→ Đáp án: Dinar Kuwaiti (KWD)
+
+Câu 127: Hiện nay, hệ thống tài chính quốc tế hiện đại đang sử dụng chế độ tỷ giá
+→ Đáp án: Kết hợp của chế độ tỷ giá thả nổi có quản lý và chế độ tỷ giá tự do
+
+Câu 128: Chế độ bản vị vàng kết thúc vào năm
+→ Đáp án: 1914
+
+Câu 129: Trong chế độ bản vị vàng, tỷ giá được duy trì
+→ Đáp án: Cố định
+
+Câu 130: Ngân hàng thanh toán quốc tế được thành lập vào năm
+→ Đáp án: 1930
+
+Câu 131: Nick Leeson đã làm phá sản Ngân hàng Barings, một ngân hàng lâu đời ở Anh khi tham gia vào các giao dịch liên quan đến đồng
+→ Đáp án: Yên Nhật
+
+Câu 132: George Soros đã thu được lợi nhuận 1,1 tỷ USD trong vòng 1 tháng vào năm 1992 khi đánh cược vào sự tăng giá của
+→ Đáp án: Đồng Mác Đức so với đồng Bảng Anh
+
+Câu 133: Khủng hoảng tiền tệ Đông Á năm 1997 bắt đầu tại
+→ Đáp án: Thái Lan
+
+--- C. Quy luật giá & Ngang giá lãi suất ---
+
+Câu 134: Theo quy luật 1 giá, nếu giá của cà phê Colombia là 100 peso Colombia nửa cân và giá cà phê Brazil là 8 real Brazil một cân, thì tỷ giá giữa đồng peso của Colombia và đồng real của Brazil là
+→ Đáp án: 25 peso đổi 1 real
+
+Câu 135: Quy luật ngang giá sức mua (PPP) không thể giải thích hoàn toàn sự thay đổi của tỷ giá vì
+→ Đáp án: Có một số loại hàng hóa không thể mua bán giữa các nước
+
+Câu 136: Điều kiện ngang giá lãi suất được thể hiện qua biểu thức
+→ Đáp án: i^D = i^F - (E^e_(t+1) - E_t) / E_t
+
+Câu 137: Lãi suất tiền gửi tương đương bằng ngoại tệ là
+→ Đáp án: R^F = i^F - (E^e_(t+1) - E_t) / E_t
+
+=====================================================================
+TỔNG KẾT THEO CHƯƠNG
+=====================================================================
+- Chương 1 (Các tổ chức tài chính trung gian): 27 câu (Câu 1-27)
+- Chương 2 (NHTM): 23 câu (Câu 28-50)
+- Chương 3 (Cầu tiền): 13 câu (Câu 51-63)
+- Chương 4 (NHTW): 21 câu (Câu 64-84)
+- Chương 5 (Quá trình cung ứng tiền tệ): 5 câu (Câu 85-89)
+- Chương 6 (Chính sách tiền tệ): 7 câu (Câu 90-96)
+- Chương 7 (Lạm phát): 13 câu (Câu 97-109)
+- Chương 8 (Tài chính quốc tế): 28 câu (Câu 110-137)
+-------------------------------------------------------
+TỔNG CỘNG: 137 câu hỏi
+=====================================================================
