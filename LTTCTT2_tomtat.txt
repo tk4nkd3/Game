@@ -1,0 +1,322 @@
+=== CHƯƠNG 1: LÝ THUYẾT CẤU TRÚC TÀI CHÍNH ===
+
+1. NHỮNG VẤN ĐỀ CƠ BẢN
+- Nguồn tài chính quan trọng nhất: kênh tín dụng ngân hàng (không phải CP/TP)
+- Tài chính gián tiếp (qua TGTC) quan trọng hơn tài chính trực tiếp
+- Hệ thống tài chính là "mạch máu" KTQD, được kiểm soát chặt chẽ nhất
+- Vật thế chấp là nguyên tắc quan trọng nhất trong hợp đồng vay nợ
+
+2. PHÍ GIAO DỊCH & CẤU TRÚC TÀI CHÍNH
+- Chi phí giao dịch cao → cản trở đầu tư → giảm hiệu quả hệ thống tài chính
+- TGTC ra đời để giảm chi phí giao dịch qua: tiết kiệm theo quy mô, mạng lưới, đa dạng hóa danh mục, chuyên môn hóa, cung cấp chức năng thanh toán
+
+3. RỦI RO DO THÔNG TIN KHÔNG CÂN XỨNG
+a) Lựa chọn đối nghịch (trước giao dịch):
+- Người tích cực vay là người không có khả năng trả nợ → giảm hiệu quả cho vay
+- Giải pháp: mua bán thông tin, can thiệp chính phủ → không triệt để
+→ Cần nâng cao chất lượng TGTC
+
+b) Rủi ro đạo đức (sau giao dịch):
+- Hợp đồng vốn CP (vấn đề người đại diện): người quản lý hành động vì lợi ích cá nhân
+  → Giải pháp: thông tin đầy đủ, giảm tách biệt, dùng hợp đồng nợ
+- Hợp đồng nợ: người vay dùng vốn sai mục đích
+  → Giải pháp: tăng vốn CSH, tăng cường giám sát
+
+4. CÁC TỔ CHỨC TRUNG GIAN TÀI CHÍNH
+- Trung gian nhận tiền gửi: NHTM, tổ chức tiết kiệm
+- Trung gian đầu tư: NH đầu tư, công ty TC, quỹ đầu tư tương hỗ, công ty đầu tư mạo hiểm
+- Tổ chức tiết kiệm theo hợp đồng: công ty bảo hiểm, quỹ hưu trí
+- Tổ chức tín dụng: NHTM, NH chính sách, NH HTX, công ty TC, công ty cho thuê TC, TCVM, quỹ TDND
+
+5. TRUNG GIAN TÀI CHÍNH PHI NGÂN HÀNG
+- Công ty bảo hiểm: huy động phí BH → đầu tư; nguyên tắc: sàng lọc, phí BH rủi ro, khoản khấu trừ, đồng BH, giới hạn BH
+- Quỹ đầu tư: đa dạng hóa danh mục, quản lý chuyên nghiệp
+- Công ty tài chính: vay món lớn → cho vay món nhỏ (ngược NHTM); không nhận tiền gửi
+- Công ty chứng khoán: môi giới, tự doanh, bảo lãnh phát hành, tư vấn đầu tư, quản lý danh mục
+
+
+=== CHƯƠNG 2: NGÂN HÀNG THƯƠNG MẠI ===
+
+1. VAI TRÒ NHTM
+- Trung gian tín dụng
+- Tạo tiền (bội số tiền gửi)
+- Trung gian thanh toán
+
+2. BẢNG CÂN ĐỐI TÀI SẢN
+TÀI SẢN:
+- Dự trữ (BB + vượt mức): không sinh lời
+- Tiền cho vay: thanh khoản thấp, có rủi ro vỡ nợ; chủ yếu: TM, CN, BĐS
+- Chứng khoán: CP chính phủ là dự trữ thứ cấp
+NGUỒN VỐN:
+- Tiền gửi thanh toán: tỷ trọng lớn nhất, lãi suất thấp
+- Tiền gửi phi giao dịch: nguồn quan trọng nhất
+- Tiền vay: tỷ trọng nhỏ, chi phí cao
+- Vốn CSH: tấm lá chắn cuối cùng; Basel II: VCSH/Tổng TS ≥ 9%
+
+3. QUẢN LÝ HOẠT ĐỘNG NHTM
+a) Quản lý tài sản (cho vay):
+- Sàng lọc, tài sản đảm bảo, số dư bù, giám sát
+- Đa dạng hóa danh mục, nắm chứng khoán có tính lỏng cao
+
+b) Quản lý thanh khoản:
+- Cầu thanh khoản: rút tiền gửi + nhu cầu vay vốn cam kết (quan trọng nhất)
+- Khi thiếu dự trữ: bán CK, vay NHTW, vay NH khác, thu hồi khoản vay đến hạn
+- Phải duy trì: dự trữ quá mức + dự trữ cấp 2 + vốn tự có
+
+c) Quản lý rủi ro lãi suất:
+- Khoảng cách = TS nhạy cảm LS – NV nhạy cảm LS
+- ΔLợi nhuận = Khoảng cách × ΔLãi suất
+- Chiến lược: điều chỉnh BCĐKT; hợp đồng đổi chéo lãi suất; công cụ phái sinh
+
+
+=== CHƯƠNG 3: QUÁ TRÌNH CUNG ỨNG TIỀN TỆ ===
+
+1. PHÂN LOẠI LƯỢNG TIỀN
+- M1: tiền mặt lưu hành + tiền gửi không kỳ hạn
+- M2: M1 + tiền gửi tiết kiệm không kỳ hạn
+- M3: M2 + tiền gửi có kỳ hạn
+- L: M3 + giấy tờ có giá
+(Nghiên cứu trên M1)
+
+2. BẢNG CÂN ĐỐI NHTW
+TS CÓ: Chứng khoán (chủ yếu tín phiếu KB) | Tiền cho vay
+TS NỢ: Tiền lưu hành | Tiền dự trữ
+→ Tiền lưu hành + Tiền dự trữ = Cơ số tiền tệ (MB)
+
+3. NHTW CUNG CẤP DỰ TRỮ
+- NHTW cho NHTM vay: Dự trữ↑(TS), Tiền vay↑(NV) | Cho vay↑(TSC), Dự trữ↑(TSN)
+- NHTW mua CK của NHTM: Dự trữ↑(TS), CK↓(TS) | CK↑(TSC), Dự trữ↑(TSN)
+
+4. QUÁ TRÌNH TẠO TIỀN GỬI
+Mô hình đơn giản:
+M = R / rd
+(M: lượng tiền; R: thay đổi dự trữ; rd: tỷ lệ DTBB)
+Hệ số nhân tiền đơn giản: m = 1/rd
+
+5. MÔ HÌNH ĐẦY ĐỦ
+M = m × MB      với MB = MBn + DL
+m = (1 + C/D) / (rd + ER/D + C/D)      [vi mô: (cr+1)/(cr+rr)]
+
+6. NHẬN XÉT CÁC YẾU TỐ
+- rd↑ → m↓ → M↓ (tỷ lệ nghịch)
+- C/D↑ → m↓ → M↓ (tỷ lệ nghịch)
+- ER/D↑ → m↓ → M↓ (tỷ lệ nghịch)
+- MBn↑ → M↑ (tỷ lệ thuận)
+- DL↑ → M↑ (tỷ lệ thuận)
+
+7. HÀNH VI TÁC NHÂN
+- NHTW: tác động MBn, DL, rd
+- NHTM: tác động ER/D
+- Người gửi tiền: tác động C/D
+- Người vay tiền: tác động gián tiếp ER/D và DL
+
+
+=== CHƯƠNG 4: NGÂN HÀNG TRUNG ƯƠNG & CHÍNH SÁCH TIỀN TỆ ===
+
+1. MÔ HÌNH TỔ CHỨC NHTW
+- Trực thuộc CP: đồng bộ CSKT vĩ mô, nhưng thiếu độc lập, nguy cơ bị lợi dụng in tiền
+- Độc lập CP (ưu việt hơn): ổn định giá trị đồng tiền, chịu giám sát QH
+
+2. CHỨC NĂNG NHTW
+- Phát hành tiền: cơ quan duy nhất; nguyên tắc: đảm bảo vàng, tốc độ GDP, tài sản ròng nước ngoài, cơ sở tín dụng, NSNN vay
+- Kênh bơm tiền: NSNN, tín dụng, thị trường mở, thị trường vàng & ngoại tệ
+- Ngân hàng của các ngân hàng: nhận TG, cho vay, thanh toán bù trừ
+- Ngân hàng của CP: đại lý phát hành TPCP, bảo quản dự trữ quốc gia
+
+3. MỤC TIÊU CSTT
+Cuối cùng:
+- Ổn định: giá trị đồng tiền, giá cả, lãi suất, tỷ giá, thị trường TC
+- Tăng trưởng: công ăn việc làm (về tỷ lệ TN tự nhiên), tăng trưởng kinh tế
+- Ngắn hạn: mâu thuẫn giữa việc làm cao và chống lạm phát
+
+Trung gian: lượng tiền cung ứng và lãi suất thị trường (mâu thuẫn nhau, không thể cùng theo đuổi)
+Hoạt động: dự trữ NHTM; lãi suất ngắn hạn thị trường liên NH
+
+4. CÔNG CỤ THỰC THI CSTT
+a) Cung cầu thị trường dự trữ:
+- id (LS chiết khấu): đường cung hoàn toàn co giãn (NHTW cho vay tùy nhu cầu)
+- ier (LS trả cho DTVM): khi LS ≤ ier → đường cầu hoàn toàn co giãn
+- Khi LS > ier: LS↑ → NHTM giữ ít DTVM hơn (đem cho vay liên NH)
+
+b) Nghiệp vụ thị trường mở (quan trọng nhất):
+- Mua/bán TPCP và tín phiếu KB
+- Ưu điểm: đảo ngược dễ, kiểm soát hoàn toàn, linh hoạt, chính xác, nhanh, rẻ
+- Mua CK → NBR↑ → Cung dịch phải → LS↓
+- Bán CK → NBR↓ → Cung dịch trái → LS↑
+
+c) Lãi suất chiết khấu:
+- Tránh hoảng loạn tài chính, người cho vay cuối cùng
+- Bị động: chỉ thay đổi id, không bắt NHTM vay
+- Giảm id → BR↑ → Cung dịch phải → LS↓
+
+d) Tỷ lệ dự trữ bắt buộc:
+- rd↑ → m↓ → M↓; đồng thời NHTM tăng LS cho vay để bù chi phí → Giảm cho vay
+- Phức tạp, kém linh hoạt, ảnh hưởng lợi nhuận NH
+
+e) Công cụ phi truyền thống:
+- Hạn mức tín dụng, kiểm soát lãi suất (sàn TG, trần CV), điều chỉnh tỷ giá
+
+5. CƠ CHẾ TRUYỀN DẪN CSTT
+- Kênh lãi suất: MS↑ → i↓ → Chi phí vốn↓ → Đầu tư↑ → Y↑
+- Kênh tín dụng: tác động nguồn tín dụng NHTM và BCĐTS khách hàng vay
+- Kênh giá tài sản: MS↑ → i↓ → Giá TS tài chính↑ → Lợi nhuận kỳ vọng↑ → Đầu tư↑ → Y↑
+- Kênh tỷ giá: i↑ → Nội tệ lên giá → Giá HH nước ↑ so nước ngoài → NK↑ → Thâm hụt CCTM → Y↓
+
+6. QUY TẮC TAYLOR
+Mục tiêu LS = Tỷ lệ LP + LS cân bằng + (LP thực tế – LP mục tiêu)/2 + (Tốc độ tăng GDP thực – GDP mục tiêu)/2
+
+
+=== CHƯƠNG 5: TÀI CHÍNH QUỐC TẾ ===
+
+1. TỶ GIÁ
+- Nội tệ tăng giá → XK khó, NK rẻ hơn
+- Nội tệ giảm giá → XK dễ, NK đắt hơn
+- Niêm yết trực tiếp: Ngoại tệ = x Nội tệ
+- Niêm yết gián tiếp: Nội tệ = x Ngoại tệ (dùng phân tích cung cầu)
+
+2. TỶ GIÁ DÀI HẠN
+Quy luật một giá → Thuyết ngang giá sức mua (giỏ hàng hóa giống nhau)
+- Giá nước ngoài > giá trong nước → Cầu hàng nội↑ → Cầu nội tệ↑ → Tỷ giá↑
+- Giá trong nước > giá nước ngoài → Cầu hàng ngoại↑ → Cung nội tệ↑ → Tỷ giá↓
+
+Các yếu tố thay đổi tỷ giá DH:
+| Yếu tố                          | Chiều tác động đến Tỷ giá DH |
+|----------------------------------|-------------------------------|
+| Giá cả ngoại tệ↑                | Tăng                          |
+| Giá cả nội tệ↑                  | Giảm                          |
+| Thuế NK↑ / Hạn ngạch NK↓        | Tăng                          |
+| Người nội ưa hàng ngoại↑        | Giảm                          |
+| Người ngoại ưa hàng nội↑        | Tăng                          |
+| Năng suất LĐ nước ngoài↑        | Giảm                          |
+| Năng suất LĐ trong nước↑        | Tăng                          |
+
+3. TỶ GIÁ NGẮN HẠN
+Điều kiện cân bằng:   i^F – (E^e_(t+1) – E_t)/E_t = i^D
+RF = i^F – (E^e_(t+1) – E_t)/E_t
+
+- RF > RD → Mọi người bán nội tệ → Cung NT↑ → Tỷ giá↓ về cân bằng
+- RF < RD → Mọi người bán ngoại tệ → Cầu NT↑ → Tỷ giá↑ về cân bằng
+
+Các yếu tố thay đổi tỷ giá NH:
+- i^F↑ → RF↑ → RF dịch phải → Tỷ giá NH↓
+- i^F↓ → RF↓ → RF dịch trái → Tỷ giá NH↑
+- E(t+1)↑ → RF↓ → RF dịch trái → Tỷ giá NH↑
+- E(t+1)↓ → RF↑ → RF dịch phải → Tỷ giá NH↓
+- Lãi suất thực nội tệ↑ → RD↑ → Tỷ giá↑
+- Lạm phát dự tính↑ → Tỷ giá DH↓ → RF↑ và RD↑, nhưng RF↑ nhiều hơn → Tỷ giá NH↓
+
+4. CAN THIỆP NHTW
+- Vô hiệu: mua/bán DTQT được trung hòa bằng OMO → không thay đổi MS
+- Hữu hiệu làm tăng MS: i nội tệ↓ (RD↓), LP dự tính↑ → Tỷ giá DH↓ → RF↑ → Tỷ giá NH↓
+  (Dài hạn: LS↑ để kiềm LP → RD↑ → Tỷ giá NH↑)
+- Hữu hiệu làm giảm MS: i nội tệ↑ (RD↑), LP dự tính↓ → Tỷ giá DH↑ → RF↓ → Tỷ giá NH↑
+  (Dài hạn: LS↓ chống TN → RD↓ → Tỷ giá NH↓)
+
+5. CÁN CÂN THANH TOÁN
+- Cán cân vãng lai: thương mại, thu nhập, dịch vụ, chuyển giao vãng lai
+- Cán cân vốn
+- Cán cân tài chính: FDI, đầu tư gián tiếp, đầu tư khác
+- Tài trợ CCTT: điều chỉnh về 0 (cân bằng)
+
+6. HỆ THỐNG BW & SỤP ĐỔ
+- BW: 1 ounce vàng = 35 USD, tỷ giá cố định
+- Định giá thấp (Mác Đức 1971): Thặng dư → Mua DTQT → MS↑ → LP↑ → Mác tăng giá 3.7%
+- Định giá cao (Bảng Anh 1967): Thâm hụt → Bán DTQT → Đầu cơ bán Bảng → Bảng mất giá 14%
+- Nhược điểm BW: USD không được điều chỉnh giảm giá khi bị định giá cao
+
+7. CÁC TỔ CHỨC TÀI CHÍNH QUỐC TẾ
+- IMF: ổn định tài chính QT, hỗ trợ khó khăn TC
+- WB: ban đầu tái thiết sau chiến tranh → xóa đói giảm nghèo
+- ADB: giống WB ở khu vực châu Á – TBD
+- BIS: thành lập sớm nhất, phục vụ NHTW các nước
+
+
+=== CHƯƠNG 6: CẦU TIỀN TỆ ===
+
+1. HỌC THUYẾT SỐ LƯỢNG – IRVING FISHER
+Phương trình trao đổi: MV = PY
+(M: cung tiền; V: tốc độ lưu chuyển; P: mức giá; Y: sản lượng thực; PY: TNDQDN)
+- V = hằng số (ổn định trong ngắn hạn, không bị ảnh hưởng bởi M, P, Y)
+- Y = ổn định tại mức việc làm đầy đủ
+→ M = k·PY  (k = 1/V)
+→ Cầu tiền tỷ lệ thuận với TNDQDN; giá cả phụ thuộc cung tiền
+→ Không đề cập lãi suất
+
+2. LÝ THUYẾT KEYNES (Ưa thích thanh khoản)
+Ba động cơ:
+- Giao dịch: tỷ lệ thuận thu nhập
+- Dự phòng: tỷ lệ thuận thu nhập
+- Đầu cơ: tỷ lệ nghịch lãi suất (i↑ → mua TP → cầu tiền↓)
+
+Phương trình: M^d/P = f(–i, +Y)
+Tốc độ lưu chuyển: V = PY/M = Y/f(i,Y) → V tỷ lệ thuận i, tỷ lệ nghịch Y
+Giải thích: i↑ → M^d↓ → tiền quay vòng nhanh hơn; Y↑ → M^d↑ → tiền quay vòng chậm hơn
+Phát triển gần đây: cả cầu giao dịch và dự phòng đều nghịch với i
+
+3. HỌC THUYẾT FRIEDMAN
+M^d/P = f(+Yp, –(rb–rm), –(re–rm), –(Πe–rm))
+- Yp: thu nhập thường xuyên dài hạn (ổn định hơn thu nhập danh nghĩa Keynes)
+- rb–rm: chênh lệch lợi tức TP – tiền mặt
+- re–rm: chênh lệch lợi tức CP – tiền mặt
+- Πe–rm: chênh lệch lợi tức hàng hóa – tiền mặt (tỷ lệ LP dự kiến)
+Ý nghĩa:
+- Cầu tiền ít nhạy cảm với lãi suất (khác Keynes)
+- Hàm cầu tiền ổn định hơn Keynes (dùng Yp thay thu nhập danh nghĩa)
+
+4. CHỨNG CỨ THỰC NGHIỆM
+- Ủng hộ Keynes: cầu tiền nhạy cảm với LS và không ổn định; chưa tìm được hàm cầu tiền thỏa đáng
+
+
+=== CHƯƠNG 7: LẠM PHÁT ===
+
+1. ĐỊNH NGHĨA & ĐO LƯỜNG
+- Lạm phát: giá cả tăng nhanh liên tục trong thời gian dài / giá trị đồng tiền liên tục giảm
+- Đo lường: tỷ lệ % thay đổi CPI, PPI, Dt
+- Giảm phát: mức giá kỳ này < kỳ trước
+- Thiểu phát: tỷ lệ LP giảm (rất hiếm gặp)
+
+2. PHÂN LOẠI
+Định lượng:
+- Vừa phải: < 10%/năm (NHTW mục tiêu 2–3%)
+- Phi mã: 10% – dưới 100% (2 chữ số)
+- Siêu LP: ≥ 3 chữ số, hậu quả nghiêm trọng
+
+Định tính:
+- Cân bằng / không cân bằng (so với thu nhập)
+- Dự đoán được / bất thường
+- Thông thường / lõi (lõi: đo lường dài hạn, ổn định)
+
+3. NGUYÊN NHÂN
+a) Do lượng tiền cung ứng (lạm phát cầu kéo):
+MS↑ → AD↑ → Y↑ → TN↓ → Tiền lương↑ → AS↓ → Y về mức tự nhiên → TN về TN tự nhiên
+Kết quả: Giá cả chung↑, TN không đổi dài hạn
+
+b) Do chi phí đẩy:
+Cú sốc cung tiêu cực → AS↓ → Y↓, P↑, TN↑ (lạm phát + suy thoái)
+Ba chi phí: tiền lương, thuế gián thu, giá nguyên liệu NK
+CP kích cầu → AD↑ → Y↑ → TN về tự nhiên → Giá tiếp tục↑
+
+c) Do thâm hụt NSNN:
+- In tiền → MS↑ → LP
+- Vay TPCP → Cầu vốn↑ → i↑ → NHTW mua TPCP → MS↑ → LP (nếu thường xuyên)
+
+d) Do biến động tỷ giá:
+Tỷ giá↑ → Giá hàng NK↑ → Chi phí↑ → LP chi phí đẩy
+
+4. TÁC ĐỘNG CỦA LẠM PHÁT
+- Lãi suất: Fisher: i danh nghĩa = i thực + LP → LP↑ → i↑ → Đầu tư↓ → Y↓
+- Sản lượng: phụ thuộc độ co giãn đường AS/AD
+  + Cầu co giãn → ΔY do AS lớn hơn
+  + Cung co giãn → ΔY do AD lớn hơn
+- Phân phối thu nhập:
+  + Người cho vay thiệt, người vay lợi (lãi suất thực↓)
+  + Người hưởng lương thiệt (tiền lương tăng chậm hơn giá)
+  + Công chúng mất thu nhập vào chính phủ
+- Chi phí kinh tế: chi phí mòn giày, chi phí thực đơn, sai lệch tín hiệu giá
+- Vỡ nợ quốc gia: nợ nước ngoài trầm trọng hơn
+
+5. BIỆN PHÁP PHÒNG CHỐNG
+- Giảm tổng cầu thận trọng (tránh suy thoái)
+- CSTT thắt chặt
+- Chính sách tài khóa thắt chặt chi tiêu NSNN
+- Mua bán dự trữ quốc tế
