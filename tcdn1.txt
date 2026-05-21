@@ -1,0 +1,133 @@
+Câu 6 — Tìm giá trị sổ sách Vốn chủ sở hữu
+Đề cho giá mua 176.000 và giá thanh lý 58.900 là số nhiễu (giá trị sổ sách không dùng giá thị trường). Ta dùng phương trình kế toán: VCSH = Tổng tài sản − Tổng nợ.
+Bước 1 — Tách tổng tài sản và tổng nợ theo nhóm ngắn hạn/dài hạn:
+Tổng tài sản = TSNH + TSCĐ(sổ sách), Tổng nợ = Nợ NH + Nợ DH.
+Bước 2 — Thay vào và nhóm lại để dùng NWC:
+VCSH = (TSNH + TSCĐ) − (Nợ NH + Nợ DH) = (TSNH − Nợ NH) + TSCĐ − Nợ DH = NWC + TSCĐ − Nợ DH.
+Bước 3 — Thay số: VCSH = 57.200 + 64.500 − 111.300 = 10.400 triệu đồng → Đáp án C.
+Câu 7 — Tìm thuế suất thuế TNDN
+Bước 1 — EBIT = Doanh thu − Chi phí xuất quỹ − Khấu hao = 843.800 − 609.900 − 76.400 = 157.500.
+Bước 2 — EBT = EBIT − Lãi vay = 157.500 − 38.200 = 119.300.
+Bước 3 — Lợi nhuận sau thuế = ΔLN giữ lại + Cổ tức = 62.138 + 18.000 = 80.138.
+Bước 4 — Thuế phải nộp = EBT − LNST = 119.300 − 80.138 = 39.162.
+Bước 5 — t = 39.162 ÷ 119.300 = 32,83% → Đáp án A.
+Câu 9 — Tác động của vốn lưu động tới dòng tiền
+Quy tắc dấu: tài sản hoạt động tăng → âm; tài sản giảm → dương; nợ hoạt động giảm → âm.
+Phải thu tăng 130 → −130; Hàng tồn kho giảm 75 → +75; Phải trả giảm 40 → −40.
+Tổng = −130 + 75 − 40 = −95 → Giảm 95 triệu đồng → Đáp án C.
+Câu 10 — Lưu chuyển tiền thuần từ hoạt động kinh doanh (gián tiếp)
+Bước 1 — Xuất phát từ LNST = 862, cộng lại khấu hao (không xuất quỹ) +47.
+Bước 2 — Điều chỉnh vốn lưu động: phải thu tăng 28 → −28; HTK giảm 14 → +14; phải trả giảm 13 → −13.
+Bước 3 — Loại trừ: "giá trị còn lại TSCĐ tăng 8" là hoạt động đầu tư; cổ tức 25 là hoạt động tài chính → không đưa vào CFO.
+Bước 4 — CFO = 862 + 47 − 28 + 14 − 13 = 882 triệu đồng → Đáp án C.
+Câu 11 — Tìm tổng tài sản từ tỷ lệ Nợ/VCSH
+Bước 1 — Nợ/VCSH = 0,57 ⇒ VCSH = Nợ ÷ 0,57 = 4.850 ÷ 0,57 = 8.508,77.
+Bước 2 — Tổng tài sản = Nợ + VCSH = 4.850 + 8.508,77 = 13.358,77 triệu đồng → Đáp án E.
+Câu 14 — Mức tăng lợi nhuận giữ lại
+Bước 1 — EBIT = 546.000 − 295.000 − 37.000 = 214.000.
+Bước 2 — EBT = 214.000 − 15.000 = 199.000.
+Bước 3 — LNST = EBT × (1 − t) = 199.000 × 0,68 = 135.320.
+Bước 4 — ΔLN giữ lại = LNST − Cổ tức = 135.320 − 59.000 = 76.320 triệu đồng → Đáp án A.
+Câu 15 — Tìm EBIT
+Doanh thu, khấu hao, phát hành cổ phiếu là số nhiễu. Đi ngược từ ΔLN giữ lại lên.
+Bước 1 — LNST = ΔLN giữ lại + Cổ tức = 418 + 75 = 493.
+Bước 2 — EBT = LNST ÷ (1 − t) = 493 ÷ 0,65 = 758,46.
+Bước 3 — EBIT = EBT + Lãi vay = 758,46 + 511 = 1.269,46 tỷ đồng → Đáp án B.
+Câu 18 — Tìm thu nhập chịu thuế (EBT)
+Giá vốn, lãi vay, khấu hao là số nhiễu. Đi ngược từ ΔLN giữ lại.
+Bước 1 — LNST = 631 + 420 = 1.051.
+Bước 2 — EBT = 1.051 ÷ (1 − 0,34) = 1.051 ÷ 0,66 = 1.592,42 triệu đồng → Đáp án C.
+Câu 19 — Tìm tỷ suất sinh lời cần đạt
+Dùng công thức tìm lãi: r = (FV/PV)^(1/n) − 1.
+Bước 1 — FV/PV = 300.000 ÷ 75.561 = 3,9703.
+Bước 2 — r = 3,9703^(1/16) − 1 = 3,9703^0,0625 − 1 = 9,00% → Đáp án C.
+Câu 20 — Tìm lãi suất tiền gửi
+Bước 1 — FV/PV = 26.180 ÷ 7.500 = 3,4907.
+Bước 2 — r = 3,4907^(1/14) − 1 = 3,4907^0,07143 − 1 = 9,34% → Đáp án D.
+Câu 24 — So sánh hai khoản vay qua EAR
+Hai khoản có kỳ ghép lãi khác nhau nên phải quy về lãi suất hiệu dụng (EAR) mới so sánh được. Công thức EAR = (1 + r/m)^m − 1.
+Vay A (m = 365): EAR = (1 + 0,0775/365)^365 − 1 = 8,06%.
+Vay B (m = 2): EAR = (1 + 0,08/2)² − 1 = (1,04)² − 1 = 8,16%.
+Người vay chọn chi phí thực thấp hơn → A (8,06% < 8,16%) → Đáp án A.
+Câu 25 — Tìm lãi suất niêm yết (APR) từ EAR
+Ghép lãi tháng, m = 12. Từ (1 + APR/12)^12 = 1 + EAR, giải ngược:
+Bước 1 — 1 + APR/12 = (1,18974)^(1/12).
+Bước 2 — APR = 12 × [(1,18974)^(1/12) − 1] = 17,50%/năm → Đáp án A.
+Câu 26 — Tỷ suất sinh lời hiệu dụng theo năm của trái phiếu
+Giá = 92,5% × 1.000 = 925; coupon mỗi kỳ = 1.000 × 6,6%/2 = 33; số kỳ n = 9 × 2 = 18.
+Bước 1 — Giải y mỗi kỳ từ phương trình giá:
+925 = 33 × [1 − (1+y)⁻¹⁸]/y + 1.000 × (1+y)⁻¹⁸ ⇒ y ≈ 3,887%/kỳ.
+Bước 2 — Quy ra hiệu dụng năm (vì hỏi EAR): EAR = (1 + 0,03887)² − 1 = 7,93% → Đáp án D.
+(Lưu ý phân biệt: YTM danh nghĩa = 2 × 3,887% = 7,77%, còn EAR = 7,93%.)
+Câu 27 — Tìm tỷ lệ lạm phát dự kiến (Fisher)
+Công thức Fisher: (1 + r_danh nghĩa) = (1 + r_thực)(1 + lạm phát).
+Bước 1 — 1 + lạm phát = 1,105 ÷ 1,062 = 1,04049.
+Bước 2 — lạm phát = 4,05% → Đáp án C.
+Câu 28 — Tìm lãi suất danh nghĩa (Fisher)
+Bước 1 — 1 + r_danh nghĩa = (1 + 0,095)(1 + 0,018) = 1,095 × 1,018 = 1,11471.
+Bước 2 — r_danh nghĩa = 11,47%/năm → Đáp án C.
+(Nếu dùng công thức gần đúng 9,5% + 1,8% = 11,3% sẽ ra đáp án B — đó là bẫy; phải dùng công thức nhân chính xác.)
+Câu 29 — Tìm lãi suất coupon của trái phiếu
+YTM 9,2% bán niên ⇒ y = 4,6%/kỳ; n = 13 × 2 = 26; giá = 802,30; mệnh giá 1.000. Ẩn là coupon C.
+Bước 1 — Tính hai hệ số chiết khấu với y = 4,6%, n = 26:
+hệ số annuity [1 − 1,046⁻²⁶]/0,046 và hệ số hiện tại 1,046⁻²⁶.
+Bước 2 — Giải C từ: 802,30 = C × (annuity) + 1.000 × (1,046⁻²⁶) ⇒ C ≈ 32,81/kỳ.
+Bước 3 — Coupon năm = 2 × 32,81 ÷ 1.000 = 6,56% → Đáp án A.
+Câu 30 — Tìm YTM
+Kỳ hạn gốc 17 năm, đã phát hành 2 năm ⇒ còn 15 năm; coupon mỗi kỳ = 1.000 × 10,3%/2 = 51,5; n = 30; giá = 102% × 1.000 = 1.020.
+Bước 1 — Giải y mỗi kỳ từ: 1.020 = 51,5 × [1 − (1+y)⁻³⁰]/y + 1.000(1+y)⁻³⁰ ⇒ y ≈ 5,02%/kỳ.
+Bước 2 — YTM danh nghĩa năm = 2 × 5,02% = 10,04% → Đáp án B.
+(Mẹo kiểm tra: giá > mệnh giá nên YTM phải < coupon 10,3% — đúng với 10,04%.)
+Câu 31 — Tìm lãi suất coupon (trả lãi năm)
+Trả lãi theo năm: y = 7,5%; n = 14; giá = 1.382,01. Ẩn là C.
+Bước 1 — Tính hệ số với y = 7,5%, n = 14: annuity [1 − 1,075⁻¹⁴]/0,075 và 1,075⁻¹⁴.
+Bước 2 — Giải C: 1.382,01 = C × (annuity) + 1.000 × (1,075⁻¹⁴) ⇒ C ≈ 120/năm.
+Bước 3 — Coupon = 120 ÷ 1.000 = 12,00% → Đáp án E.
+(Mẹo: giá 1.382 > mệnh giá nên coupon phải > YTM 7,5% — đúng.)
+Câu 32 — Tìm YTM (trả lãi năm)
+Coupon mỗi năm C = 70; n = 10; giá = 842,10 < mệnh giá ⇒ YTM > 7%.
+Bước 1 — Giải y từ: 842,10 = 70 × [1 − (1+y)⁻¹⁰]/y + 1.000(1+y)⁻¹⁰.
+Bước 2 — y ≈ 9,52% → Đáp án D.
+Câu 33 — Định giá cổ phiếu (cổ tức không đều rồi tăng trưởng đều)
+Cổ tức 5 năm: 0,12; 0,15; 0,20; 0,50; 0,75. Sau đó g = 4%, r = 8,5%.
+Bước 1 — Chiết khấu 5 cổ tức về hiện tại:
+0,12/1,085 + 0,15/1,085² + 0,20/1,085³ + 0,50/1,085⁴ + 0,75/1,085⁵ = 0,1106 + 0,1274 + 0,1566 + 0,3603 + 0,4992 ≈ 1,254.
+Bước 2 — Giá trị cuối năm 5 (dùng cổ tức năm 6 = 0,75 × 1,04 = 0,78):
+P₅ = 0,78 ÷ (0,085 − 0,04) = 0,78 ÷ 0,045 = 17,33.
+Bước 3 — Chiết khấu P₅ về hiện tại: 17,33 ÷ 1,085⁵ = 11,53.
+Bước 4 — P₀ = 1,254 + 11,53 = 12,78 USD → Đáp án C.
+Câu 34 — Định giá cổ phiếu (3 năm rồi tăng trưởng đều)
+D₀ = 3,60 đã trả (không tính). D₁ = 3,80; D₂ = 4,10; D₃ = 4,25; sau đó g = 3,25%; r = 12,5%.
+Bước 1 — Chiết khấu 3 cổ tức: 3,80/1,125 + 4,10/1,125² + 4,25/1,125³ = 3,378 + 3,239 + 2,985 ≈ 9,602.
+Bước 2 — Giá cuối năm 3 (cổ tức năm 4 = 4,25 × 1,0325 = 4,388):
+P₃ = 4,388 ÷ (0,125 − 0,0325) = 4,388 ÷ 0,0925 = 47,44.
+Bước 3 — Chiết khấu P₃: 47,44 ÷ 1,125³ = 33,32.
+Bước 4 — P₀ = 9,602 + 33,32 = 42,92 USD → Đáp án A.
+Câu 35 — Giá phải trả khi mua vào cuối năm nay (P₁)
+D₀ = 3,10; g = 4%; r = 12%. Mua ở cuối năm 1 nên giá là P₁ = D₂/(r − g).
+Bước 1 — D₂ = D₀ × (1 + g)² = 3,10 × 1,04² = 3,10 × 1,0816 = 3,353.
+Bước 2 — P₁ = 3,353 ÷ (0,12 − 0,04) = 3,353 ÷ 0,08 = 41,91 USD → Đáp án D.
+(Bẫy: nếu dùng D₁ thay vì D₂ sẽ ra ~40,3 USD — sai. Vì mua ở cuối năm 1, người mua được hưởng cổ tức từ năm 2 trở đi.)
+Câu 36 — Tìm tỷ suất sinh lời yêu cầu r
+P₀ = 28,16; D₁ = 1,35 (cổ tức kỳ vọng cuối năm tới, đã là D₁); g = 3%. Từ Gordon: r = D₁/P₀ + g.
+Bước 1 — D₁/P₀ = 1,35 ÷ 28,16 = 0,04794.
+Bước 2 — r = 0,04794 + 0,03 = 7,79% → Đáp án B.
+Câu 37 — Tìm r khi biết tỷ suất cổ tức
+Dividend yield = D₁/P₀ = 3,2%. D₀ = 1,48; D₁ = 1,54. Công thức r = dividend yield + g.
+Bước 1 — Tìm g: g = D₁/D₀ − 1 = 1,54/1,48 − 1 = 4,05%.
+Bước 2 — r = 3,2% + 4,05% = 7,25% → Đáp án A.
+Câu 38 — Tìm cổ tức gần nhất D₀
+P₀ = 38; g = 3%; r = 8,2%. Vì hỏi cổ tức đã trả (D₀) nên dùng P₀ = D₀(1+g)/(r−g), giải ngược D₀.
+Bước 1 — D₀ = P₀ × (r − g) ÷ (1 + g) = 38 × (0,082 − 0,03) ÷ 1,03.
+Bước 2 — = 38 × 0,052 ÷ 1,03 = 1,976 ÷ 1,03 = 1,92 USD → Đáp án C.
+Câu 39 — Dòng tiền RA tháng 8/2020
+Chỉ tính khoản thực chi tiền trong tháng:
+Mua nguyên vật liệu giá có thuế GTGT 220 (trả ngay) → chi 220. Trả lương 50 → chi 50.
+Khấu hao 30: không xuất quỹ → bỏ. Bán hàng 550 và thu phải thu 70: là tiền vào → bỏ.
+Thuế GTGT nộp chậm 1 tháng → thuế của tháng 8 nộp sang tháng 9; không có số liệu thuế tháng 7 → không có dòng ra thuế trong tháng 8.
+Dòng tiền ra = 220 + 50 = 270 triệu VND → Đáp án B.
+Câu 40 — Số tiền đã thanh toán cho nhà cung cấp
+Hai bước: tính lượng hàng mua trong kỳ, rồi trừ phần mua chịu (tăng phải trả NCC).
+Bước 1 — Hàng mua = Giá vốn hàng bán + ΔHàng tồn kho = 75 + (−6) = 69 (HTK giảm 6 nghĩa là bán cả hàng cũ, mua ít hơn giá vốn).
+Bước 2 — Tiền trả NCC = Hàng mua − ΔPhải trả người bán = 69 − 2 = 67 tỷ VND → Đáp án A.
+(Tổng tài sản tăng 55 và nợ phải trả tăng 45 là số nhiễu.)
