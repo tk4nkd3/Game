@@ -1,3 +1,474 @@
+1. Tổng quan tài chính doanh nghiệp 
+
+1.1. Doanh nghiệp và hoạt động tài chính doanh nghiệp 
+
+1.1.1. Khái niệm doanh nghiệp 
+
+- Theo Luật doanh nghiệp Việt Nam hiện hành : Là tổ chức kinh tế có tên riêng, có tài sản, có  trụ sở giao dịch ổn định, được đăng ký kinh doanh theo quy định của pháp luật nhằm mục  đích thực hiện các hoạt động kinh doanh  
+
+1.1.2. Doanh nghiệp tư nhân 
+
+- Là doanh nghiệp sở hữu bởi một cá nhân hoặc hộ gia đình kinh doanh với mục tiêu lợi  nhuận của chính bản thân chủ doanh nghiệp  
+
+- Chiếm số lượng lớn nhất 
+
+- Huy động vốn bằng nguồn cá nhân hoặc đi vay 
+
+- Có trách nhiệm vô hạn 
+
+- Là loại hình doanh nghiệp duy nhất không bị đánh thuế hai lần 
+
+1.1.3. Công ty hợp danh 
+
+- Có ít nhất hai thành viên là thành viên hợp danh bắt buộc phải là cá nhân, còn lại có thể có  thành viên góp vốn 
+
+- Thường hoạt động trên lĩnh vực tài chính, bảo hiểm, bất động sản 
+
+- Thành viên hợp danh có trách nhiệm vô hạn và có quyền quản lý, thành viên góp vốn có  trách nhiệm hữu hạn và không có quyền quản lý 
+
+1.1.4. Công ty Trách nhiệm hữu hạn 
+
+a. Một thành viên 
+
+- Do một tổ chức hoặc một cá nhân làm chủ sở hữu  
+
+- Chủ sở hữu chịu trách nhiệm hữu hạn trong phạm vi vốn điều lệ của công ty - Tách biệt tài sản của chủ sở hữu và công ty 
+
+b. Hai thành viên trở lên 
+
+- Không vượt quá 50 
+
+- Chịu trách nhiệm hữu hạn trong phạm vi vốn góp 
+
+- Có quyền biểu quyết với số vốn góp tương ứng 
+
+- Phân chia lợi nhuận theo vốn góp ban đầu 
+
+1.1.5. Công ty cổ phần 
+
+- Lợi nhuận tạo ra từ loại hình này là lớn nhất 
+
+- Số lượng cổ đông tối thiểu là ba và không giới hạn 
+
+- Cổ đông chịu trách nhiệm hữu hạn về các khoản nợ và nghĩa vụ tài sản
+
+3 
+
+- Cổ phiếu ưu đãi cho một số đặc quyền nhưng lại thiếu một số đặc quyền 1.1.6. Các hoạt động cơ bản của doanh nghiệp 
+
+- Đối đầu với công nghệ 
+
+- Là đối tượng quản lý của nhà nước 
+
+- Phải dự tính khả năng xảy ra rủi ro  
+
+- Đáp ứng sự đòi hỏi của các đối tác về mức vốn chủ sở hữu trong cơ cấu vốn - Dự đoán môi trường 
+
+→ Tối đa hóa giá trị tài sản cho các chủ sở hữu ( tối đa hóa thị giá cổ phiếu ) 
+
+- Các quyết định tài chính : quyết định đầu tư, quyết định huy động vốn, quyết định phân  phối, quyết định ngân quỹ,… 
+
+1.2. Khái niệm và vai trò của quản trị tài chính doanh nghiệp 
+
+1.2.1. Khái niệm 
+
+- Tài chính doanh nghiệp là tổng hòa các mối quan hệ gồm với nhà nước, với thị trường tài  chính, với thị trường khác và trong nội bộ doanh nghiệp 
+
+- Chiến lược đầu tư dài hạn : Đầu tư dài hạn vào đâu và với quy mô là bao nhiêu ? - Quyết định huy động vốn ngắn hạn : Hình thức huy động vốn, cơ cấu vốn 
+
+- Quản lý tài chính ngắn hạn : Doanh thu chi phí lợi nhuận, ngân quỹ, chính sách tài chính – kế toán  
+
+1.2.2. Mục tiêu của quản trị tài chính doanh nghiệp 
+
+- Quan điểm cũ : Tối đa hóa lợi nhuận 
+
+- Quan điểm hiện đại : Tối đa hóa giá trị tài sản cho các chủ sở hữu 
+
+1.3. Các nguyên tắc quản trị tài chính doanh nghiệp 
+
+1.3.1. Nguyên tắc đánh đổi rủi ro và lợi nhuận 
+
+- Rủi ro càng cao thì lợi nhuận kỳ vọng càng lớn và ngược lại 
+
+1.3.2. Nguyên tắc giá trị thời gian của tiền 
+
+- Tiền tại thời điểm khác nhau có giá trị khác nhau 
+
+- Nguyên nhân : Lạm phát và chi phí cơ hội của việc nắm giữ tiền mặt 1.3.3. Nguyên tắc chi trả 
+
+- Đảm bảo ngân quỹ tối thiểu để thực hiện chi trả 
+
+1.3.4. Nguyên tắc sinh lợi 
+
+- Tìm kiếm dự án đầu tư có lợi nhuận ròng dương, dự án sinh lợi
+
+4 
+
+1.3.5. Nguyên tắc thị trường hiệu quả 
+
+- Thị trường hiệu quả : giá trị của một tài sản ở bất cứ thời điểm nào cũng phản ánh đầy đủ thông tin một cách công khai → Thị giá cổ phiếu phán ảnh tất cả những thông tin sẵn có và  công khai về giá trị một doanh nghiệp  
+
++ Mức độ yếu : thông tin trong quá khứ 
+
++ Mức độ trung bình : thông tin trong quá khứ + thông tin công khai 
+
++ Mức độ mạnh : thông tin quá khứ + công khai + nội bộ 
+
+1.3.6. Nguyên tắc gắn kết lợi ích của nhà quản trị với lợi ích cổ đông - Vấn đề người đại diện → Phải gắn kết để ưu tiên lợi ích của tập thể 
+
+1.3.7. Tác động của chính sách kinh tế vĩ mô 
+
+- Khi đưa ra một quyết định cần xem xét tới các chính sách vĩ mô để có quyết định tối ưu - Vốn nợ có tiết kiệm thuế nhưng vốn chủ thì không 
+
+- Thu nhập từ cổ tức thường có thể miễn thuế một phần còn thu nhập từ trái tức thì không 
+
+2. Báo cáo tài chính doanh nghiệp 
+
+2.1. Tổng quan về báo cáo tài chính 
+
+- Báo cáo được lập dựa trên các phương pháp kế toán tổng hợp từ sổ sách kế toán, theo các  chỉ tiêu tài chính phát sinh tại một thời điểm hoặc một thời kỳ nhất định 
+
+- Vai trò : Là đầu ra của kế toán, là đầu vào của phân tích tài chính 
+
+- Ý nghĩa : Cơ sở quan trọng để đánh giá doanh nghiệp và ra quyết định của các nhà đầu tư,  sử dụng cả trong và ngoài doanh nghiệp 
+
+2.2. Bảng cân đối kế toán 
+
+- Phản ánh tình hình tài sản và nguồn vốn tại một thời điểm nhất định 2.2.1. Tài sản 
+
+- Nguyên tắc sắp xếp : Tính thanh khoản giảm dần 
+
+a. Tài sản ngắn hạn 
+
+- Tiền : Thanh khoản cao nhất 
+
+- Các khoản tương đương tiền : Đầu tư tài chính ngắn hạn dễ dàng chuyển đổi thành tiền - Phải thu : Các khoản tiền dự kiến thu được 
+
+- Hàng tồn kho : Hàng tồn kho cho quá trình sản xuất kinh doanh 
+
+b. Tài sản dài hạn 
+
+- Tài sản cố định : Phải trích khấu hao 
+
+- Bất động sản đầu tư  
+
+- Đầu tư tài chính dài hạn 
+
+5 
+
+2.2.2. Nguồn vốn 
+
+- Nguyên tắc sắp xếp : Ưu tiên trong thanh toán  
+
+a. Nợ phải trả 
+
+- Phải trả người bán ngắn hạn, doanh thu chưa thực hiện  
+
+- Vay ngắn hạn 
+
+- Thuế và các khoản phải nộp cho nhà nước 
+
+- Nợ dài hạn 
+
+b. Vốn chủ sở hữu 
+
+- Vốn góp của chủ sở hữu 
+
+- Thặng dư vốn cổ phần 
+
+- Lợi nhuận để lại 
+
+- Cổ phiếu quỹ 
+
+- Các quỹ 
+
+2.2.3. Ý nghĩa của bảng cân đối kế toán 
+
+- Phản ánh tài sản và nguồn vốn cũng như chiến lược tài chính dài hạn và quyết định huy  động vốn ngắn hạn 
+
+2.3. Báo cáo kết quả kinh doanh 
+
+- Phản ánh tình hình kết quả kinh doanh của doanh nghiệp trong một thời kỳ nhất định - Bao gồm : Hoạt động sản xuất kinh doanh, hoạt động tài chính và hoạt động khác 2.3.1. Doanh thu 
+
+- Thời điểm ghi nhận doanh thu : Khách hàng chấp nhận thanh toán và đã xuất hóa đơn 
+
+- Giá trị của doanh thu : giá trị hợp lý của hàng hóa, không bao gồm các khoản thu cho bên  thứ ba 
+
+- Gồm doanh thu từ sản xuất kinh doanh, doanh thu tài chính, doanh thu khác + Doanh thu tài chính : Trái tức, cổ tức, lãi vay,…. 
+
++ Doanh thu khác : Nhượng bán tài sản cố định, nợ phải thu khó đòi bị xóa sổ,.. 2.3.2. Chi phí  
+
+- Thời điểm ghi nhận chi phí : Doanh nghiệp chấp nhận thanh toán và đã nhận hóa đơn 
+
+- Giá trị của chi phí : giá trị hợp lý của hao phí, không bao gồm các khoản phải trả cho bên  thứ ba, chi phí phải tương ứng với doanh thu trong kỳ
+
+6 
+
+2.3.3. Lợi nhuận 
+
+a. Khái niệm 
+
+- Lợi nhuận trước thuế gồm từ hoạt động kinh doanh, từ hoạt động tài chính, từ hoạt động  khác  
+
+- Lợi nhuận trước thuế = Doanh thu – Chi phí tạo ra doanh thu  
+
+- Một số loại lợi nhuận thường gặp  
+
++ Lợi nhuận gộp 
+
++ Lợi nhuận hoạt động ( EBIT ) = Lợi nhuận gộp – Chi phí bán hàng quản lý DN + Lợi nhuận trước thuế ( EBT ) = Lợi nhuận hoạt động – Chi phí tài chính  + Lợi nhuận sau thuế ( EAT ) 
+
+b. Phân phối lợi nhuận 
+
+- Mục đích : Tái đầu tư mở rộng sản xuất, khuyến khích người lao động nâng cao hiệu quả hoạt động kinh doanh 
+
+- Nguyên tắc : Một phần lợi nhuận sau thuế được dùng để đem chia cho các chủ sở hữu  - Quy trình phân phối  
+
+Lợi nhuận trước thuế → Bù đắp lỗ trước thuế → Nộp thuế → Bù đắp lỗ sau thuế → Trích lập  các quỹ → Chia cổ tức → Lợi nhuận giữ lại 
+
+c. Các quỹ 
+
+- Quỹ đầu tư phát triển  
+
+- Quỹ dự phòng tài chính 
+
+- Quỹ dự phòng trợ cấp mất việc làm 
+
+- Quỹ phúc lợi 
+
+- Quỹ khen thưởng 
+
+2.3.4. Nguyên tắc lập báo cáo kết quả kinh doanh 
+
+- Nguyên tắc cơ sở dồn tích : Giao dịch ghi nhận vào thời điểm phát sinh - Nguyên tắc phù hợp doanh thu và chi phí  
+
+2.4.5. Ý nghĩa của báo cáo kết quả kinh doanh 
+
+- Phản ánh tình hình kết quả hoạt động kinh doanh, cơ sở đưa ra quyết định về hoạt động sản  xuất kinh doanh, hoạt động tài chính và hoạt động khác
+
+7 
+
+2.4. Báo cáo lưu chuyển tiền tệ 
+
+2.4.1. Khái niệm và các chỉ tiêu cơ bản 
+
+- Phản ánh sự vận động của dòng tiền trong một thời kỳ, từ đó có thể dự đoán dòng tiền phát  sinh trong kỳ tiếp theo 
+
+- Gồm : Lưu chuyển tiền tệ từ hoạt động sản xuất kinh doanh, từ hoạt động tài chính và từ hoạt động đầu tư  
+
++ LCTT sản xuất kinh doanh : Phát sinh từ hoạt động sản xuất 
+
++ LCTT tài chính : Phát sinh từ những nghiệp vụ làm thay đổi quy mô và cơ cấu của vốn nợ và vốn chủ 
+
++ LCTT đầu tư : Phát sinh từ việc mua sắm, xây dựng, thanh lý nhượng bán tài sản dài hạn,.. - Phương pháp hạch toán 
+
++ Trực tiếp : Dùng cho cả ba 
+
++ Gián tiếp : Chỉ dùng cho LCTT sản xuất kinh doanh, hạch toán bằng cách điều chỉnh lợi  nhuận ( trước thuế hay sau thuế ) ? 
+
+2.4.2. Nguyên tắc lập báo cáo lưu chuyển tiền tệ 
+
+- Trình bày theo ba loại hoạt động sản xuất kinh doanh, đầu tư, tài chính 2.4.3. Ý nghĩa của báo cáo lưu chuyển tiền tệ 
+
+- Phản ánh dòng tiền, quản lý tài chính ngắn hạn, quản lý ngân quỹ 
+
+2.5. Thuyết minh báo cáo tài chính 
+
+- Tường thuật lại và giải thích kỹ hơn về ba báo cáo trên 
+
+- Nội dung :  
+
++ Đặc điểm hoạt động, kỳ kế toán, đơn vị tiền tệ 
+
++ Chuẩn mực kế toán và chế độ kế toán 
+
++ Giải trình chính sách kế toán 
+
++ Thông tin bổ sung 
+
++ Biến động vốn chủ sở hữu 
+
++ Nghĩa vụ tiềm tàng, các khoản cam kết 
+
+2.6. Các loại thuế phổ biến đối với doanh nghiệp 
+
+2.6.1. Thuế giá trị gia tăng 
+
+- Là thuế gián thu nếu tính theo phương pháp khấu trừ, đánh vào người tiêu dùng cuối cùng 
+
+- Đối tượng chịu thuế : Hàng hóa dịch vụ dùng cho sản xuất kinh doanh và tiêu dùng ( kể cả nước ngoài ) 
+
+- VAT không ảnh hưởng đến hoạt động của doanh nghiệp
+
+8 
+
+2.6.2. Thuế tiêu thụ đặc biệt 
+
+- Là thuế gián thu 
+
+- Đối tượng chịu thuế : Những hàng hóa và dịch vụ cần phải hạn chế sản xuất và tiêu dùng 2.6.3. Thuế thu nhập doanh nghiệp 
+
+- Là thuế đánh vào thu nhập chịu thuế của doanh nghiệp 
+
+- Là thuế trực thu 
+
+2.6.4. Một số giá hàng hóa khi tính đến thuế 
+
+Giá chưa thuế ( Chưa SCT, chưa VAT ) → Giá trung gian ( Có SCT, Chưa VAT ) → Giá thanh  toán ( Có SCT và Có VAT ) 
+
+- Giá hàng hóa nhập khẩu = Giá tại cửa khẩu + Thuế nhập khẩu + Thuế tiêu thụ đặc biệt 2.6.5. Các loại thuế khác 
+
+- Thuế môn bài : Có tính chất lệ phí, thu hàng năm đối với mọi cơ sở sản xuất kinh doanh - Thuế xuất khẩu, thuế nhập khẩu  
+
+- Thuế tài nguyên : Phải nộp khi khai thác tài nguyên của nhà nước 
+
+- Thuế sử dụng đất phi nông nghiệp  
+
+3. Huy động vốn của doanh nghiệp 
+
+3.1. Tổng quan về nguồn vốn của doanh nghiệp 
+
+- Là toàn bộ số tiền mà doanh nghiệp phải ứng trước để đầu tư hình thành nên các tài sản cho  hoạt động sản xuất kinh doanh 
+
+- Vốn là biểu hiện bằng tiền của tài sản còn tài sản là hình thái hiện vật của vốn tại thời điểm  nhất định 
+
+- Vai trò : Là điều kiện tiên quyết và tiền đề cho sự tồn tại và phát triển của DN - Phân loại 
+
++ Vốn nợ và vốn chủ : Vốn nợ sử dụng được đòn bẩy tài chính còn vốn chủ thì không + Vốn ngắn hạn và dài hạn 
+
++ Vốn lưu động của vốn cố định  
+
+3.2. Phương pháp lựa chọn nguồn vốn 
+
+- Sử dụng tài trợ dài hạn cho toàn bộ tổng tài sản : Rủi ro thấp nhưng chi phí cao 
+
+- Sử dụng tài trợ dài hạn cho tài sản dài hạn và tài trợ ngắn hạn cho tài sản ngắn hạn : Rủi ro  cao nhưng chi phí thấp 
+
+- Toàn bộ tài sản dài hạn và một phần tài sản ngắn hạn được tài trợ bằng vốn dài hạn : Rủi ro  trung bình và chi phí trung bình 
+
+→ Lựa chọn cách tài trợ phù hợp
+
+9 
+
+- Mức độ rủi ro : 1 < 2 < 3 <4 
+
+- Chi phí vốn : 1 > 2 > 3 > 4  
+
+3.3. Các cách huy động vốn nợ 
+
+3.3.1. Tín dụng thương mại 
+
+- Chiếm dụng vốn của người bán dưới dạng các khoản phải trả 
+
+- Ưu điểm : Chi phí thấp, linh hoạt, tạo điều kiện hợp tác kinh doanh  
+
+- Nhược điểm : Quy mô nhỏ, thời hạn ngắn, tác động dây chuyền khi DN mất khả năng thanh  toán 
+
+- Chi phí ẩn dưới hình thức sự thay đổi của mức giá  
+
+- Điều kiện huy động : Mối quan hệ với nhà cung cấp 
+
+3.3.2. Tín dụng ngân hàng 
+
+- Là tín dụng gắn với chủ thể là ngân hàng, là nguồn vốn quan trọng trong nền kinh tế - Ưu điểm :  
+
++ Linh hoạt về quy mô, thời điểm và thời gian đáo hạn 
+
++ Có các dịch vụ tiện ích kèm theo 
+
+- Nhược điểm :
+
+10 
+
++ Thủ tục hành chính  
+
++ Chịu sự giám sát của ngân hàng 
+
++ Lãi suất có thể bị đẩy lên cao 
+
+- Điều kiện huy động : Mục đích sử dụng vốn và khả năng thanh toán của doanh nghiệp và  phải chịu sự giám sát của ngân hàng 
+
+3.3.3. Trái phiếu doanh nghiệp 
+
+- Là chứng khoán nợ do doanh nghiệp phát hành, xác nhận nghĩa vụ trả gốc và lãi của doanh  nghiệp đối với trái chủ 
+
+- Phân loại 
+
++ Theo lãi suất : Lãi suất cố định, lãi suất thả nổi, lãi suất bằng không 
+
++ Theo mức độ đảm bảo : Trái phiếu đảm bảo và không đảm bảo 
+
++ Theo hình thức : Vô danh, ghi danh 
+
++ Theo tính chất : Thông thường, Có thể chuyển đổi, có thể thu hồi, có quyền mua cổ phiếu - Ưu điểm : Chủ động về quy mô, thời điểm huy động, hình thức và cách phát hành - Nhược điểm : Điều kiện phát hành nghiêm ngặt, phát sinh nhiều chi phí - Điều kiện huy động : Uy tín của doanh nghiệp, kỳ hạn lãi suất và mệnh giá phải phù hợp 3.3.4. Thuê tài chính 
+
+- Thuê hoạt động : ngắn hạn 
+
+- Thuê tài chính : trung và dài hạn  
+
+- Ưu điểm : có tài sản để sử dụng trong điều kiện hạn hẹp về vốn, tránh thủ tục hành chính,  tận dụng được ưu thế công nghệ của bên cho thuê 
+
+- Điều kiện huy động : Phải đảm bảo được chi phí thuê tài sản và chứng minh tính khả thi 3.3.5. Ưu và nhược điểm của hình thức huy động vốn nợ 
+
+- Ưu điểm : chi phí vốn thấp hơn vốn chủ, đòn bẩy tài chính, tạo áp lực trả nợ để nhà quản trị thận trọng, không đối mặt với nguy cơ phân tán quyền lực 
+
+- Nhược điểm : Rủi ro vỡ nợ, giảm mức độ tự chủ tài chính, tình trạng thông tin bất cân xứng 3.4. Các cách huy động vốn chủ sở hữu 
+
+3.4.1. Vốn góp ban đầu 
+
+- Là lượng vốn ban đầu do các chủ sở hữu góp vào 
+
+- Điều kiện huy động : Phụ thuộc vào hình thức sở hữu của doanh nghiệp, bị giới hạn bởi  năng lực tài chính của chủ sở hữu  
+
+3.4.2. Lợi nhuận không chia 
+
+- Là lợi nhuận sau thuế được giữ lại sau khi đã chia hết tất cả
+
+11 
+
+- Ưu điểm : giảm bớt chi phí, bớt phụ thuộc, nâng cao khả năng doanh nghiệp 
+
+- Nhược điểm : Lợi nhuận không chia càng lớn thì cổ tức càng nhỏ có thể dẫn tới thị giá cổ phiếu giảm 
+
+3.4.3. Phát hành cổ phiếu 
+
+- Là hoạt động tài trợ dài hạn, tăng vốn chủ sở hữu cho doanh nghiệp 
+
+- Gồm cổ phiếu thường và cổ phiếu ưu tiên 
+
++ Cổ phiếu thường : Cổ tức không cố định, chi phí vốn cao hơn, thanh toán sau cùng + Cổ phiếu ưu tiên : Cổ tức cố định, chi phí vốn thấp hơn, thanh toán trước cổ đông thường - Ưu điểm : quy mô huy động lớn, chủ động trong việc huy động  
+
+- Nhược điểm : chi phí cao, bị ràng buộc bởi điều kiện phát hành, ảnh hưởng tới quyền lực  của chủ sở hữu, tăng nguy cơ bị xâm thực 
+
+- Cổ phiếu thường gặp tình trạng pha loãng giá cổ phiếu còn cổ phiếu ưu tiên thì không 3.5. Vốn lưu động và vốn cố định 
+
+3.6. Cổ phiếu
+
+12 
+
+4. Giá trị thời gian của tiền và định giá chứng khoán 
+
+4.1. Lãi suất tỷ lệ và lãi suất tương đương 
+
+4.2. Giá trị tương lai của chuỗi niên kim cuối kỳ 
+
+- Từ ba công thức trên sẽ suy ra được các công thức còn lại 
+
+4.3. Định giá trái phiếu 
+
+- Quy hết thu nhập tương lai về giá trị hiện tại 
+
+- Trả lãi n lần trong 1 năm 
+
++ Lãi suất coupon và lãi suất thị trường chia cho n 
+
++ Kỳ hạn nhân với n 
+
+4.4. Định giá cổ phiếu 
+
+- Là trường hợp đặc biệt của định giá trái phiếu 
+
+13
 Câu 6 — Tìm giá trị sổ sách Vốn chủ sở hữu
 Đề cho giá mua 176.000 và giá thanh lý 58.900 là số nhiễu (giá trị sổ sách không dùng giá thị trường). Ta dùng phương trình kế toán: VCSH = Tổng tài sản − Tổng nợ.
 Bước 1 — Tách tổng tài sản và tổng nợ theo nhóm ngắn hạn/dài hạn:
